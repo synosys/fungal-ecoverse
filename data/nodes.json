@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Algae_Parasite",
+    "size": 10
+  },
+  {
+    "id": "Amphibian_Pathogen",
+    "size": 2
+  },
+  {
+    "id": "Amphibian_Symbiont",
+    "size": 1
+  },
+  {
+    "id": "Animal_Pathogen",
+    "size": 5
+  },
+  {
+    "id": "Biotrophic_plant_pathogen",
+    "size": 161
+  },
+  {
+    "id": "Cnidaria_Pathogen",
+    "size": 1
+  },
+  {
+    "id": "Dung_Saprotroph",
+    "size": 65
+  },
+  {
+    "id": "Ectomycorrhizal",
+    "size": 218
+  },
+  {
+    "id": "Endophyte",
+    "size": 238
+  },
+  {
+    "id": "Epiphyte",
+    "size": 13
+  },
+  {
+    "id": "Ericoid_Mycorrhizal",
+    "size": 6
+  },
+  {
+    "id": "Fish_Pathogen",
+    "size": 1
+  },
+  {
+    "id": "Fungal_Parasite",
+    "size": 77
+  },
+  {
+    "id": "Human_Endosymbiont",
+    "size": 1
+  },
+  {
+    "id": "Human_Pathogen",
+    "size": 150
+  },
+  {
+    "id": "Insect_Pathogen",
+    "size": 77
+  },
+  {
+    "id": "Insect_Symbiont",
+    "size": 2
+  },
+  {
+    "id": "Lichen_Parasite",
+    "size": 370
+  },
+  {
+    "id": "Lichenized",
+    "size": 905
+  },
+  {
+    "id": "Mammal_Pathogen",
+    "size": 1
+  },
+  {
+    "id": "Nematode_Symbiont",
+    "size": 2
+  },
+  {
+    "id": "Nematode_Trapping",
+    "size": 10
+  },
+  {
+    "id": "Orchid_Mycorrhizal",
+    "size": 2
+  },
+  {
+    "id": "Plant_Pathogen",
+    "size": 1431
+  },
+  {
+    "id": "Saprotroph",
+    "size": 759
+  },
+  {
+    "id": "Wood_Saprotroph",
+    "size": 462
+  }
+]

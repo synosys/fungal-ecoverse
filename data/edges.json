@@ -1,0 +1,527 @@
+[
+  {
+    "node1": "Algae_Parasite",
+    "node2": "Lichen_Parasite",
+    "weight": 5
+  },
+  {
+    "node1": "Algae_Parasite",
+    "node2": "Lichenized",
+    "weight": 8
+  },
+  {
+    "node1": "Algae_Parasite",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Algae_Parasite",
+    "node2": "Saprotroph",
+    "weight": 3
+  },
+  {
+    "node1": "Amphibian_Pathogen",
+    "node2": "Amphibian_Symbiont",
+    "weight": 1
+  },
+  {
+    "node1": "Amphibian_Pathogen",
+    "node2": "Insect_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Amphibian_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Amphibian_Symbiont",
+    "node2": "Insect_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Amphibian_Symbiont",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Endophyte",
+    "weight": 1
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Epiphyte",
+    "weight": 1
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Human_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Insect_Pathogen",
+    "weight": 4
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 3
+  },
+  {
+    "node1": "Animal_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Biotrophic_plant_pathogen",
+    "node2": "Endophyte",
+    "weight": 1
+  },
+  {
+    "node1": "Biotrophic_plant_pathogen",
+    "node2": "Human_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Biotrophic_plant_pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Cnidaria_Pathogen",
+    "node2": "Endophyte",
+    "weight": 1
+  },
+  {
+    "node1": "Cnidaria_Pathogen",
+    "node2": "Human_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Cnidaria_Pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Cnidaria_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Cnidaria_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Endophyte",
+    "weight": 12
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Epiphyte",
+    "weight": 1
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Fungal_Parasite",
+    "weight": 2
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Human_Pathogen",
+    "weight": 7
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Insect_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Lichen_Parasite",
+    "weight": 3
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Plant_Pathogen",
+    "weight": 12
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Saprotroph",
+    "weight": 21
+  },
+  {
+    "node1": "Dung_Saprotroph",
+    "node2": "Wood_Saprotroph",
+    "weight": 9
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Endophyte",
+    "weight": 3
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Ericoid_Mycorrhizal",
+    "weight": 1
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Fungal_Parasite",
+    "weight": 2
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Lichen_Parasite",
+    "weight": 2
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Orchid_Mycorrhizal",
+    "weight": 1
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Plant_Pathogen",
+    "weight": 15
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Saprotroph",
+    "weight": 35
+  },
+  {
+    "node1": "Ectomycorrhizal",
+    "node2": "Wood_Saprotroph",
+    "weight": 11
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Epiphyte",
+    "weight": 4
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Ericoid_Mycorrhizal",
+    "weight": 3
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Fish_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Fungal_Parasite",
+    "weight": 12
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Human_Pathogen",
+    "weight": 28
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Insect_Pathogen",
+    "weight": 5
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Lichen_Parasite",
+    "weight": 21
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Orchid_Mycorrhizal",
+    "weight": 2
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Plant_Pathogen",
+    "weight": 148
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Saprotroph",
+    "weight": 86
+  },
+  {
+    "node1": "Endophyte",
+    "node2": "Wood_Saprotroph",
+    "weight": 29
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Human_Pathogen",
+    "weight": 6
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Insect_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Lichen_Parasite",
+    "weight": 3
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Plant_Pathogen",
+    "weight": 6
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Saprotroph",
+    "weight": 7
+  },
+  {
+    "node1": "Epiphyte",
+    "node2": "Wood_Saprotroph",
+    "weight": 3
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Human_Pathogen",
+    "weight": 2
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Lichen_Parasite",
+    "weight": 1
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Orchid_Mycorrhizal",
+    "weight": 1
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Plant_Pathogen",
+    "weight": 3
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Saprotroph",
+    "weight": 2
+  },
+  {
+    "node1": "Ericoid_Mycorrhizal",
+    "node2": "Wood_Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Fish_Pathogen",
+    "node2": "Human_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Fish_Pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Fish_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Human_Pathogen",
+    "weight": 3
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Insect_Pathogen",
+    "weight": 5
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Lichen_Parasite",
+    "weight": 8
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Lichenized",
+    "weight": 1
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Nematode_Trapping",
+    "weight": 1
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Plant_Pathogen",
+    "weight": 27
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Saprotroph",
+    "weight": 24
+  },
+  {
+    "node1": "Fungal_Parasite",
+    "node2": "Wood_Saprotroph",
+    "weight": 12
+  },
+  {
+    "node1": "Human_Endosymbiont",
+    "node2": "Human_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Human_Endosymbiont",
+    "node2": "Insect_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Human_Endosymbiont",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Insect_Pathogen",
+    "weight": 4
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Insect_Symbiont",
+    "weight": 1
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Lichen_Parasite",
+    "weight": 11
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 51
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 44
+  },
+  {
+    "node1": "Human_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 22
+  },
+  {
+    "node1": "Insect_Pathogen",
+    "node2": "Lichen_Parasite",
+    "weight": 1
+  },
+  {
+    "node1": "Insect_Pathogen",
+    "node2": "Lichenized",
+    "weight": 1
+  },
+  {
+    "node1": "Insect_Pathogen",
+    "node2": "Plant_Pathogen",
+    "weight": 11
+  },
+  {
+    "node1": "Insect_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 5
+  },
+  {
+    "node1": "Insect_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 2
+  },
+  {
+    "node1": "Insect_Symbiont",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Lichen_Parasite",
+    "node2": "Lichenized",
+    "weight": 89
+  },
+  {
+    "node1": "Lichen_Parasite",
+    "node2": "Plant_Pathogen",
+    "weight": 50
+  },
+  {
+    "node1": "Lichen_Parasite",
+    "node2": "Saprotroph",
+    "weight": 42
+  },
+  {
+    "node1": "Lichen_Parasite",
+    "node2": "Wood_Saprotroph",
+    "weight": 11
+  },
+  {
+    "node1": "Lichenized",
+    "node2": "Plant_Pathogen",
+    "weight": 5
+  },
+  {
+    "node1": "Lichenized",
+    "node2": "Saprotroph",
+    "weight": 28
+  },
+  {
+    "node1": "Mammal_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Nematode_Symbiont",
+    "node2": "Plant_Pathogen",
+    "weight": 2
+  },
+  {
+    "node1": "Nematode_Trapping",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Nematode_Trapping",
+    "node2": "Wood_Saprotroph",
+    "weight": 3
+  },
+  {
+    "node1": "Orchid_Mycorrhizal",
+    "node2": "Plant_Pathogen",
+    "weight": 1
+  },
+  {
+    "node1": "Orchid_Mycorrhizal",
+    "node2": "Saprotroph",
+    "weight": 1
+  },
+  {
+    "node1": "Plant_Pathogen",
+    "node2": "Saprotroph",
+    "weight": 225
+  },
+  {
+    "node1": "Plant_Pathogen",
+    "node2": "Wood_Saprotroph",
+    "weight": 135
+  },
+  {
+    "node1": "Saprotroph",
+    "node2": "Wood_Saprotroph",
+    "weight": 78
+  }
+]

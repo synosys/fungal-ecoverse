@@ -1,0 +1,929 @@
+[
+  {
+    "source": "Amphibian_Pathogen",
+    "target": "Insect_Pathogen",
+    "color": "#1B9E77",
+    "community": 1,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Amphibian_Symbiont",
+    "color": "#1B9E77",
+    "community": 1,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Epiphyte",
+    "color": "#1B9E77",
+    "community": 1,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Animal_Pathogen",
+    "color": "#1B9E77",
+    "community": 1,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
+    "weight": 4,
+    "width": 11.2661
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Human_Endosymbiont",
+    "color": "#1B9E77",
+    "community": 1,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Nematode_Trapping",
+    "color": "#E7298A",
+    "community": 2,
+    "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Mammal_Pathogen",
+    "target": "Wood_Saprotroph",
+    "color": "#E7298A",
+    "community": 2,
+    "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Nematode_Trapping",
+    "target": "Plant_Pathogen",
+    "color": "#E7298A",
+    "community": 2,
+    "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Nematode_Trapping",
+    "target": "Wood_Saprotroph",
+    "color": "#E7298A",
+    "community": 2,
+    "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Biotrophic_plant_pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Cnidaria_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Dung_Saprotroph",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 12,
+    "width": 17.9546
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Ectomycorrhizal",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 15,
+    "width": 19.4081
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Endophyte",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 148,
+    "width": 35.0276
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Plant_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 6,
+    "width": 13.6214
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Ericoid_Mycorrhizal",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Fish_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Plant_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 27,
+    "width": 23.3254
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Human_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 51,
+    "width": 27.6587
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Plant_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 11,
+    "width": 17.3943
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Lichen_Parasite",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 50,
+    "width": 27.5228
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Nematode_Symbiont",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Orchid_Mycorrhizal",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Saprotroph",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 225,
+    "width": 37.9437
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Plant_Pathogen",
+    "color": "#7570B3",
+    "community": 3,
+    "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 135,
+    "width": 34.3886
+  },
+  {
+    "source": "Dung_Saprotroph",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 12,
+    "width": 17.9546
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Dung_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Dung_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Dung_Saprotroph",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 7,
+    "width": 14.5561
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Dung_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Dung_Saprotroph",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Dung_Saprotroph",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 21,
+    "width": 21.6373
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Dung_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 9,
+    "width": 16.1181
+  },
+  {
+    "source": "Ectomycorrhizal",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Ectomycorrhizal",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Ectomycorrhizal",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Ectomycorrhizal",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 35,
+    "width": 25.0846
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Ectomycorrhizal",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 11,
+    "width": 17.3943
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 4,
+    "width": 11.2661
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 12,
+    "width": 17.9546
+  },
+  {
+    "source": "Endophyte",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 28,
+    "width": 23.5711
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 5,
+    "width": 12.5423
+  },
+  {
+    "source": "Endophyte",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 21,
+    "width": 21.6373
+  },
+  {
+    "source": "Endophyte",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 86,
+    "width": 31.2614
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Endophyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 29,
+    "width": 23.8084
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 6,
+    "width": 13.6214
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Epiphyte",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 7,
+    "width": 14.5561
+  },
+  {
+    "source": "Epiphyte",
+    "target": "Wood_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Ericoid_Mycorrhizal",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Fungal_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 5,
+    "width": 12.5423
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 8,
+    "width": 15.3806
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 24,
+    "width": 22.5321
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Wood_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 12,
+    "width": 17.9546
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 4,
+    "width": 11.2661
+  },
+  {
+    "source": "Human_Pathogen",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 11,
+    "width": 17.3943
+  },
+  {
+    "source": "Human_Pathogen",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 44,
+    "width": 26.6466
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Human_Pathogen",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 22,
+    "width": 21.9485
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 5,
+    "width": 12.5423
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Wood_Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Lichen_Parasite",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 42,
+    "width": 26.3284
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Lichen_Parasite",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 11,
+    "width": 17.3943
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Saprotroph",
+    "color": "#E6AB02",
+    "community": 4,
+    "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
+    "weight": 78,
+    "width": 30.5861
+  },
+  {
+    "source": "Amphibian_Pathogen",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Amphibian_Symbiont",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Endophyte",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Plant_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Animal_Pathogen",
+    "target": "Wood_Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Biotrophic_plant_pathogen",
+    "target": "Endophyte",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Biotrophic_plant_pathogen",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Cnidaria_Pathogen",
+    "target": "Endophyte",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Cnidaria_Pathogen",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Cnidaria_Pathogen",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Cnidaria_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Ectomycorrhizal",
+    "target": "Ericoid_Mycorrhizal",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Ectomycorrhizal",
+    "target": "Orchid_Mycorrhizal",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Endophyte",
+    "target": "Ericoid_Mycorrhizal",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Endophyte",
+    "target": "Fish_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Endophyte",
+    "target": "Orchid_Mycorrhizal",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Ericoid_Mycorrhizal",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Ericoid_Mycorrhizal",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 2,
+    "width": 7.6903
+  },
+  {
+    "source": "Wood_Saprotroph",
+    "target": "Ericoid_Mycorrhizal",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fish_Pathogen",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Fish_Pathogen",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Human_Endosymbiont",
+    "target": "Human_Pathogen",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Human_Endosymbiont",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Human_Pathogen",
+    "target": "Insect_Symbiont",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Saprotroph",
+    "target": "Insect_Symbiont",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Orchid_Mycorrhizal",
+    "target": "Saprotroph",
+    "color": "#D95F02",
+    "community": 5,
+    "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Lichen_Parasite",
+    "target": "Algae_Parasite",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 5,
+    "width": 12.5423
+  },
+  {
+    "source": "Algae_Parasite",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 8,
+    "width": 15.3806
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Algae_Parasite",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Saprotroph",
+    "target": "Algae_Parasite",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 3,
+    "width": 9.7041
+  },
+  {
+    "source": "Fungal_Parasite",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Insect_Pathogen",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 1,
+    "width": 4.852
+  },
+  {
+    "source": "Lichen_Parasite",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 89,
+    "width": 31.4987
+  },
+  {
+    "source": "Plant_Pathogen",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 5,
+    "width": 12.5423
+  },
+  {
+    "source": "Saprotroph",
+    "target": "Lichenized",
+    "color": "#66A61E",
+    "community": 6,
+    "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
+    "weight": 28,
+    "width": 23.5711
+  }
+]
