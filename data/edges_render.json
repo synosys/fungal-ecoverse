@@ -6,7 +6,11 @@
     "community": 1,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Basidiobolus",
+    "shared_genus_n": 1,
+    "shared_species": "Basidiobolus_ranarum",
+    "shared_species_n": 1
   },
   {
     "source": "Insect_Pathogen",
@@ -15,7 +19,11 @@
     "community": 1,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Basidiobolus",
+    "shared_genus_n": 1,
+    "shared_species": "Basidiobolus_ranarum",
+    "shared_species_n": 1
   },
   {
     "source": "Animal_Pathogen",
@@ -24,7 +32,11 @@
     "community": 1,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Candida",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Insect_Pathogen",
@@ -33,7 +45,11 @@
     "community": 1,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
     "weight": 4,
-    "width": 11.2661
+    "width": 11.2661,
+    "shared_genus": ["Coelomomyces", "Conidiobolus", "Entomophthora", "Septobasidium"],
+    "shared_genus_n": 4,
+    "shared_species": ["Conidiobolus_coronatus", "Entomophthora_muscae", "Septobasidium_theae"],
+    "shared_species_n": 3
   },
   {
     "source": "Insect_Pathogen",
@@ -42,7 +58,11 @@
     "community": 1,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Human_Endosymbiont", "Insect_Pathogen", "Epiphyte"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Torrubiella",
+    "shared_genus_n": 1,
+    "shared_species": "Torrubiella_wallacei",
+    "shared_species_n": 1
   },
   {
     "source": "Fungal_Parasite",
@@ -51,7 +71,11 @@
     "community": 2,
     "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Arthrobotrys",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Mammal_Pathogen",
@@ -60,7 +84,11 @@
     "community": 2,
     "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Pseudogymnoascus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Nematode_Trapping",
@@ -69,7 +97,11 @@
     "community": 2,
     "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Arthrobotrys",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Nematode_Trapping",
@@ -78,7 +110,11 @@
     "community": 2,
     "community_nodes": ["Fungal_Parasite", "Mammal_Pathogen", "Nematode_Trapping", "Wood_Saprotroph", "Plant_Pathogen"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Hohenbuehelia", "Orbilia", "Resupinatus"],
+    "shared_genus_n": 3,
+    "shared_species": ["Hohenbuehelia_bingarra", "Hohenbuehelia_clelandii", "Hohenbuehelia_karrara", "Hohenbuehelia_petaloides", "Orbilia_auricolor", "Resupinatus_cinerascens", "Resupinatus_subapplicatus"],
+    "shared_species_n": 7
   },
   {
     "source": "Plant_Pathogen",
@@ -87,7 +123,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Pseudozyma",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Plant_Pathogen",
@@ -96,7 +136,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Aspergillus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Plant_Pathogen",
@@ -105,7 +149,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 12,
-    "width": 17.9546
+    "width": 17.9546,
+    "shared_genus": ["Agrocybe", "Chaetomium", "Coniochaeta", "Coprinopsis", "Deconica", "Microascus", "Mucor", "Psilocybe", "Rhizopus", "Sphaeronaemella", "Stilbella", "Westerdykella"],
+    "shared_genus_n": 12,
+    "shared_species": ["Agrocybe_pediades", "Chaetomium_globosum", "Mucor_fragilis", "Rhizopus_stolonifer"],
+    "shared_species_n": 4
   },
   {
     "source": "Plant_Pathogen",
@@ -114,7 +162,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 15,
-    "width": 19.4081
+    "width": 19.4081,
+    "shared_genus": ["Amphinema", "Amylostereum", "Arrhenia", "Ceratobasidium", "Chalciporus", "Chroogomphus", "Clitocybe", "Coltricia", "Entoloma", "Gomphidius", "Hortiboletus", "Hyaloscypha", "Phylloporus", "Sistotrema", "Thelephora"],
+    "shared_genus_n": 15,
+    "shared_species": ["Amphinema_byssoides", "Chalciporus_sp", "Chroogomphus_rutilus", "Entoloma_clypeatum", "Gomphidius_glutinosus", "Gomphidius_roseus", "Hortiboletus_rubellus", "Hyaloscypha_hepaticicola"],
+    "shared_species_n": 8
   },
   {
     "source": "Plant_Pathogen",
@@ -123,7 +175,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 148,
-    "width": 35.0276
+    "width": 35.0276,
+    "shared_genus": ["Acremonium", "Acrocalymma", "Akanthomyces", "Alanphillipsia", "Albonectria", "Allophoma", "Alternaria", "Alternariaster", "Annulohypoxylon", "Anthostomella", "Apiognomonia", "Aplosporella", "Apoharknessia", "Arthrinium", "Aspergillus", "Aureobasidium", "Bartalinia", "Beltrania", "Bionectria", "Bipolaris", "Boeremia", "Botryosphaeria", "Cadophora", "Calonectria", "Camarosporium", "Ceratobasidium", "Ceratocystiopsis", "Ceratocystis", "Cercospora", "Chaetomium", "Chaetosphaeria", "Chloridium", "Cladophialophora", "Cladosporium", "Clonostachys", "Coccomyces", "Cochliobolus", "Colletotrichum", "Coniella", "Coniochaeta", "Coniothyrium", "Coniozyma", "Corynespora", "Curvularia", "Cyclaneusma", "Cytosphaera", "Cytospora", "Dactylaria", "Diaporthe", "Didymosphaeria", "Dothidea", "Dothiorella", "Drechslera", "Dubujiana", "Epichloe", "Epicoccum", "Exophiala", "Exserohilum", "Fraxinicola", "Fusarium", "Fusicladium", "Gaeumannomyces", "Gibberella", "Gloeosporium", "Gonatobotryum", "Guignardia", "Harpophora", "Helminthosporium", "Hyaloscypha", "Hypoxylon", "Idriella", "Ilyonectria", "Isaria", "Kabatiella", "Keissleriella", "Kellermania", "Kretzschmaria", "Lasiodiplodia", "Lophodermium", "Macrophomina", "Marasmiellus", "Massarina", "Melanospora", "Microcyclospora", "Mollisia", "Muyocopron", "Mycocentrospora", "Mycosphaerella", "Mycosphaerelloides", "Nectria", "Nemania", "Neocordana", "Neofusicoccum", "Neonectria", "Neopestalotiopsis", "Nigrospora", "Nodulisporium", "Ophiosphaerella", "Paraphaeosphaeria", "Parapyrenochaeta", "Paratubakia", "Penicillium", "Periconia", "Pestalotia", "Pestalotiopsis", "Pezicula", "Phaeosphaeria", "Phaeotrichoconis", "Phialocephala", "Phialophora", "Phoma", "Phomatospora", "Phomopsis", "Phyllosticta", "Phyllostictina", "Plectosphaerella", "Pseudocercospora", "Pseudofusicoccum", "Pseudonectria", "Pseudosydowia", "Pseudozyma", "Pyrenophora", "Pyriculariopsis", "Ramichloridium", "Ramularia", "Rhizoctonia", "Rhizopus", "Rosellinia", "Saccharata", "Sarea", "Sarocladium", "Schizophyllum", "Scolecobasidium", "Scytalidium", "Splanchnonema", "Stagonospora", "Stegonsporium", "Stichophoma", "Sydowia", "Torula", "Toxicocladosporium", "Trichoderma", "Truncatella", "Tubakia", "Venturia", "Verticillium", "Xylaria", "Zasmidium"],
+    "shared_genus_n": 148,
+    "shared_species": ["Akanthomyces_lecanii", "Albonectria_rigidiuscula", "Alternaria_infectoria", "Alternaria_longipes", "Alternaria_protenta", "Alternaria_tenuissima", "Alternariaster_helianthi", "Annulohypoxylon_stygium", "Apiognomonia_errabunda", "Arthrinium_phaeospermum", "Aureobasidium_microstictum", "Aureobasidium_pullulans", "Bionectria_aureofulva", "Bionectria_ochroleuca", "Bipolaris_papendorfii", "Boeremia_exigua", "Botryosphaeria_berengeriana", "Cercospora_apii", "Chaetomium_globosum", "Chloridium_phaeosporum", "Cladosporium_cladosporioides", "Cladosporium_oxysporum", "Cladosporium_pini-ponderosae", "Cladosporium_sphaerospermum", "Cladosporium_tenuissimum", "Clonostachys_rosea", "Cochliobolus_geniculatus", "Colletotrichum_aotearoa", "Colletotrichum_crassipes", "Colletotrichum_endophyticum", "Colletotrichum_fioriniae", "Colletotrichum_fructi", "Colletotrichum_fructicola", "Colletotrichum_gigasporum", "Colletotrichum_gloeosporioides", "Colletotrichum_ignotum", "Colletotrichum_karsti", "Colletotrichum_lineola", "Colletotrichum_musae", "Colletotrichum_salicis", "Colletotrichum_temperatum", "Colletotrichum_thailandicum", "Colletotrichum_torulosum", "Colletotrichum_tropicale", "Colletotrichum_truncatum", "Coniochaeta_fasciculata", "Coniothyrium_fuckelii", "Coniozyma_leucospermi", "Corynespora_cassiicola", "Corynespora_torulosa", "Curvularia_australiensis", "Curvularia_hawaiiensis", "Curvularia_lunata", "Curvularia_pallescens", "Curvularia_senegalensis", "Curvularia_tsudae", "Curvularia_tuberculata", "Cyclaneusma_minus", "Cytosphaera_mangiferae", "Cytospora_eucalypticola", "Diaporthe_anacardii", "Diaporthe_biguttulata", "Diaporthe_columnaris", "Diaporthe_cotoneastri", "Diaporthe_endophytica", "Diaporthe_fukushii", "Diaporthe_liquidambaris", "Diaporthe_magnoliicola", "Diaporthe_mali", "Diaporthe_melonis", "Diaporthe_pithya", "Diaporthe_siamensis", "Didymosphaeria_futilis", "Dothiorella_aromatica", "Dothiorella_dominicana", "Dubujiana_glandulifera", "Epicoccum_camelliae", "Epicoccum_nigrum", "Exserohilum_rostratum", "Fusarium_anthophilum", "Fusarium_arthrosporioides", "Fusarium_avenaceum", "Fusarium_fujikuroi", "Fusarium_graminearum", "Fusarium_incarnatum", "Fusarium_lateritium", "Fusarium_solani", "Fusarium_sporotrichioides", "Fusarium_thapsinum", "Fusicladium_britannicum", "Fusicladium_orchidis", "Gaeumannomyces_radicicola", "Gibberella_fujikuroi", "Gloeosporium_phormii", "Guignardia_psidii", "Harpophora_graminicola", "Hypoxylon_rubiginosum", "Ilyonectria_destructans", "Ilyonectria_radicicola", "Isaria_clonostachoides", "Kabatiella_caulivora", "Kretzschmaria_deusta", "Lasiodiplodia_theobromae", "Macrophomina_phaseolina", "Massarina_igniaria", "Melanospora_zamiae", "Mollisia_cinerea", "Muyocopron_sahnii", "Mycocentrospora_acerina", "Mycosphaerella_chimaphilae", "Mycosphaerelloides_madeirae", "Nectria_bainii", "Nectria_javanica", "Nectria_pallida", "Nemania_serpens", "Neocordana_musae", "Neofusicoccum_mangiferae", "Neofusicoccum_mediterraneum", "Neonectria_ditissima", "Neonectria_neomacrospora", "Neopestalotiopsis_clavispora", "Nigrospora_oryzae", "Ophiosphaerella_agrostidis", "Paratubakia_subglobosa", "Penicillium_brevicompactum", "Pestalotiopsis_adusta", "Pestalotiopsis_aquatica", "Pestalotiopsis_crassiuscula", "Pestalotiopsis_guepinii", "Pestalotiopsis_mangifolia", "Pestalotiopsis_oxyanthi", "Pestalotiopsis_palmarum", "Pestalotiopsis_versicolor", "Phaeotrichoconis_crotalariae", "Phoma_subglomerata", "Phomopsis_castaneae-mollissimae", "Phomopsis_helianthi", "Phomopsis_longicolla", "Phomopsis_mangiferae", "Phomopsis_phaseoli", "Phyllosticta_anacardiacearum", "Phyllosticta_capitalensis", "Phyllosticta_citricarpa", "Phyllosticta_ophiopogonis", "Phyllosticta_phalenopsidis", "Phyllosticta_sapotae", "Phyllosticta_theacearum", "Phyllostictina_theicola", "Plectosphaerella_cucumerina", "Pseudocercospora_punicae", "Pseudocercospora_vitis", "Pseudonectria_callorioides", "Pseudosydowia_eucalypti", "Pseudozyma_flocculosa", "Pyrenophora_erythrospila", "Pyrenophora_nobleae", "Pyriculariopsis_parasitica", "Ramichloridium_apiculatum", "Ramularia_collo-cygni", "Ramularia_veronicicola", "Rhizoctonia_solani", "Rhizopus_stolonifer", "Saccharata_proteae", "Sarea_resinae", "Sarocladium_kiliense", "Sarocladium_strictum", "Schizophyllum_commune", "Stagonospora_arenaria", "Stichophoma_acicola", "Sydowia_gregaria", "Sydowia_polyspora", "Torula_herbarum", "Trichoderma_harzianum", "Trichoderma_koningii", "Trichoderma_longibrachiatum", "Truncatella_angustata", "Tubakia_americana", "Venturia_carpophila", "Verticillium_epimyces", "Verticillium_foexii", "Verticillium_intertextum", "Verticillium_pulverulentum", "Xylaria_cubensis", "Xylaria_obovata", "Zasmidium_biverticillatum"],
+    "shared_species_n": 185
   },
   {
     "source": "Epiphyte",
@@ -132,7 +188,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 6,
-    "width": 13.6214
+    "width": 13.6214,
+    "shared_genus": ["Athelia", "Aureobasidium", "Chaetomium", "Cladosporium", "Microsphaeropsis", "Moesziomyces"],
+    "shared_genus_n": 6,
+    "shared_species": ["Athelia_arachnoidea", "Aureobasidium_pullulans", "Chaetomium_globosum", "Cladosporium_cladosporioides", "Moesziomyces_aphidis"],
+    "shared_species_n": 5
   },
   {
     "source": "Plant_Pathogen",
@@ -141,7 +201,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Cadophora", "Hyaloscypha", "Phialocephala"],
+    "shared_genus_n": 3,
+    "shared_species": ["Cadophora_gregata", "Hyaloscypha_hepaticicola"],
+    "shared_species_n": 2
   },
   {
     "source": "Plant_Pathogen",
@@ -150,7 +214,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Exophiala",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Fungal_Parasite",
@@ -159,7 +227,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 27,
-    "width": 23.3254
+    "width": 23.3254,
+    "shared_genus": ["Acremonium", "Arthrobotrys", "Ascochyta", "Bionectria", "Botrytis", "Cercospora", "Clitocybe", "Collybia", "Endothia", "Entoloma", "Epicoccum", "Grovesiella", "Hormiactis", "Hypocrea", "Hypomyces", "Lecanicillium", "Melanospora", "Nectria", "Paraphaeosphaeria", "Phaeocalicium", "Pseudoboletus", "Septoria", "Syspastospora", "Trichoderma", "Trichothecium", "Verticillium", "Volvariella"],
+    "shared_genus_n": 27,
+    "shared_species": ["Arthrobotrys_arthrobotryoides", "Bionectria_ochroleuca", "Endothia_paraguayensis", "Entoloma_abortivum", "Entoloma_parasiticum", "Epicoccum_nigrum", "Hormiactis_alba", "Pseudoboletus_parasiticus", "Septoria_dianthi", "Syspastospora_parasitica", "Trichoderma_harzianum", "Trichothecium_roseum", "Volvariella_surrecta"],
+    "shared_species_n": 13
   },
   {
     "source": "Plant_Pathogen",
@@ -168,7 +240,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 51,
-    "width": 27.6587
+    "width": 27.6587,
+    "shared_genus": ["Acremonium", "Alternaria", "Aspergillus", "Aureobasidium", "Bisifusarium", "Botryodiplodia", "Cadophora", "Catenulostroma", "Cladophialophora", "Cladosporium", "Coniochaeta", "Cryptococcus", "Curvularia", "Cyphellophora", "Didymella", "Diplodia", "Dipodascus", "Exophiala", "Fusarium", "Gibberella", "Graphium", "Lasiodiplodia", "Lecanicillium", "Microascus", "Microsphaeropsis", "Mucor", "Neoscytalidium", "Nigrograna", "Ochroconis", "Paecilomyces", "Penicillium", "Phaeoacremonium", "Phialocephala", "Phialophora", "Phyllosticta", "Pleurostoma", "Pseudopithomyces", "Pseudozyma", "Rhinocladiella", "Rhizopus", "Sarocladium", "Schizophyllum", "Scolecobasidium", "Scopulariopsis", "Scytalidium", "Sporothrix", "Stachybotrys", "Talaromyces", "Trichoderma", "Westerdykella", "Wickerhamomyces"],
+    "shared_genus_n": 51,
+    "shared_species": ["Alternaria_infectoria", "Aspergillus_japonicus", "Aureobasidium_pullulans", "Botryodiplodia_manihoticola", "Botryodiplodia_manihotis", "Cadophora_brunnescens", "Catenulostroma_chromoblastomycosum", "Cladophialophora_carrionii", "Curvularia_australiensis", "Curvularia_lunata", "Didymella_gardeniae", "Diplodia_arachidis", "Diplodia_musae", "Diplodia_rapax", "Dipodascus_geotrichum", "Fusarium_anthophilum", "Fusarium_falciforme", "Fusarium_fujikuroi", "Fusarium_oxysporum", "Fusarium_sacchari", "Fusarium_solani", "Gibberella_nygamai", "Lasiodiplodia_nigra", "Lasiodiplodia_pseudotheobromae", "Lasiodiplodia_theobromae", "Microascus_cinereus", "Microascus_cirrosus", "Microascus_griseus", "Microascus_lunasporus", "Microascus_pedrosoi", "Mucor_circinelloides", "Mucor_irregularis", "Neoscytalidium_dimidiatum", "Nigrograna_mackinnonii", "Stachybotrys_chartarum", "Penicillium_griseofulvum", "Penicillium_verrucosum", "Phaeoacremonium_inflatipes", "Phaeoacremonium_krajdenii", "Phaeoacremonium_parasiticum", "Phaeoacremonium_rubrigenum", "Phyllosticta_oryzae", "Pleurostoma_richardsiae", "Pseudopithomyces_chartarum", "Rhizopus_arrhizus", "Rhizopus_microsporus", "Sarocladium_kiliense", "Schizophyllum_commune", "Scytalidium_cuboideum", "Sporothrix_inflata", "Talaromyces_funiculosus", "Talaromyces_rugulosus", "Westerdykella_minutispora", "Wickerhamomyces_subpelliculosus"],
+    "shared_species_n": 54
   },
   {
     "source": "Insect_Pathogen",
@@ -177,7 +253,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 11,
-    "width": 17.3943
+    "width": 17.3943,
+    "shared_genus": ["Acaromyces", "Akanthomyces", "Balansia", "Chaetomium", "Endothia", "Epichloe", "Helicobasidium", "Lecanicillium", "Myriogenospora", "Septobasidium", "Tolypocladium"],
+    "shared_genus_n": 11,
+    "shared_species": ["Acaromyces_ingoldii", "Akanthomyces_lecanii", "Endothia_paraguayensis", "Helicobasidium_longisporum", "Helicobasidium_mompa", "Septobasidium_bogoriense"],
+    "shared_species_n": 6
   },
   {
     "source": "Plant_Pathogen",
@@ -186,7 +266,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 50,
-    "width": 27.5228
+    "width": 27.5228,
+    "shared_genus": ["Acremonium", "Arrhenia", "Arthonia", "Ascochyta", "Athelia", "Burgoa", "Ceratobasidium", "Chalara", "Cladophialophora", "Cladosporium", "Coniochaeta", "Corynespora", "Didymella", "Didymosphaeria", "Endothia", "Epicoccum", "Erythricium", "Fusarium", "Gonatophragmium", "Graphium", "Hainesia", "Hawksworthiana", "Illosporium", "Laetisaria", "Leptosphaeria", "Leptosphaerulina", "Marchandiomyces", "Melanomma", "Microsphaeropsis", "Minimedusa", "Nectria", "Neocoleroa", "Ophiobolus", "Penttilamyces", "Phaeoseptoria", "Phoma", "Phomatospora", "Phyllosticta", "Pleospora", "Pseudocercospora", "Pseudoseptoria", "Pyrenochaeta", "Ramichloridium", "Rhabdospora", "Shackletonia", "Sphaerulina", "Stagonospora", "Stenocybe", "Thelocarpon", "Venturia"],
+    "shared_genus_n": 50,
+    "shared_species": ["Athelia_arachnoidea", "Endothia_paraguayensis", "Epicoccum_nigrum", "Hawksworthiana_peltigericola", "Laetisaria_buckii", "Marchandiomyces_corallinus", "Minimedusa_pubescens", "Penttilamyces_lichenicola", "Phomatospora_dinemasporium", "Thelocarpon_epibolum"],
+    "shared_species_n": 10
   },
   {
     "source": "Plant_Pathogen",
@@ -195,7 +279,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Ascobotryozyma", "Botryozyma"],
+    "shared_genus_n": 2,
+    "shared_species": ["Ascobotryozyma_cognata", "Botryozyma_nematodophila"],
+    "shared_species_n": 2
   },
   {
     "source": "Plant_Pathogen",
@@ -204,7 +292,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Hyaloscypha",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Plant_Pathogen",
@@ -213,7 +305,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 225,
-    "width": 37.9437
+    "width": 37.9437,
+    "shared_genus": ["Acarosporina", "Acremonium", "Acrocalymma", "Acrodictys", "Agrocybe", "Alfaria", "Allophoma", "Alternaria", "Alternariaster", "Anthostoma", "Antrodia", "Apinisia", "Armillaria", "Arrhenia", "Arthonia", "Arthrinium", "Ascochyta", "Aspergillus", "Athelia", "Aureobasidium", "Bartalinia", "Belizeana", "Bionectria", "Bipolaris", "Biscogniauxia", "Boeremia", "Bondarzewia", "Botryosphaeria", "Botryosporium", "Breviappendix", "Bryorella", "Bulbillomyces", "Bulgaria", "Cainiella", "Calonectria", "Camarosporidiella", "Camarosporium", "Cenangium", "Cerioporus", "Chaetocapnodium", "Chaetopyrena", "Chaetosphaeria", "Chaetothyrium", "Chalara", "Cladosporium", "Clathrospora", "Cleistosphaera", "Clitocybe", "Clonostachys", "Coccodothis", "Coccomyces", "Colletotrichum", "Collybia", "Collybiopsis", "Comoclathris", "Coniella", "Coniosporium", "Coprinopsis", "Corallomycetella", "Corniculariella", "Corynespora", "Coryneum", "Cryptosporiopsis", "Curvularia", "Cylindrocarpon", "Cylindrodendrum", "Cytospora", "Deconica", "Diaporthe", "Diatrype", "Didymella", "Dinemasporium", "Diplodia", "Discosia", "Discostroma", "Dothidea", "Dothiorella", "Dubujiana", "Durandiella", "Echinodontium", "Ellisiellina", "Emarcea", "Englerodothis", "Entoloma", "Epicoccum", "Erythricium", "Exophiala", "Fomitiporia", "Fusarium", "Fusicladium", "Fusicoccum", "Galerina", "Gliocephalotrichum", "Gremmenia", "Gymnopus", "Harknessia", "Hendersonula", "Herpotrichia", "Heteroconium", "Hortiboletus", "Hyaloscypha", "Hymenoscyphus", "Irpex", "Isaria", "Kabatiella", "Kalmusia", "Keissleriella", "Laetiporus", "Lamproconium", "Lasiodiplodia", "Leptosphaeria", "Lophiotrema", "Lophodermium", "Marasmiellus", "Marasmius", "Marchandiomyces", "Mariannaea", "Marthamyces", "Melanconis", "Melanconium", "Melanomma", "Microascus", "Microdochium", "Microsphaeropsis", "Mixia", "Mollisia", "Monochaetia", "Montagnula", "Mucor", "Muyocopron", "Mycena", "Myrothecium", "Myrtapenidiella", "Nectria", "Neocamarosporium", "Neodeightonia", "Neomicrosphaeropsis", "Neopestalotiopsis", "Neoscytalidium", "Nigrospora", "Ophiosphaerella", "Paraboeremia", "Paraconiothyrium", "Paraleptosphaeria", "Paraphaeosphaeria", "Paraphoma", "Parascedosporium", "Penicillium", "Perenniporia", "Periconia", "Pestalosphaeria", "Pestalotiopsis", "Pezicula", "Phacidium", "Phaeocalicium", "Phaeosphaeriopsis", "Phaeothyriolum", "Phellinotus", "Phellinus", "Pholiota", "Phoma", "Phomatodes", "Phomatospora", "Phomopsis", "Phyllosticta", "Plenodomus", "Pluteus", "Polyscytalum", "Prosthecium", "Pseudonectria", "Pseudopithomyces", "Pseudovalsa", "Psilocybe", "Pycnidiochaeta", "Pyrenochaeta", "Pyrenophora", "Ramichloridium", "Rhizopus", "Rhizostilbella", "Rosellinia", "Sarea", "Schizophyllum", "Seimatosporium", "Septobasidium", "Septoriella", "Serenomyces", "Sistotrema", "Sphagnurus", "Splanchnonema", "Stachybotrys", "Staurosphaeria", "Stegonsporium", "Stenocybe", "Stereum", "Stichophoma", "Stilbella", "Stilbum", "Sydowia", "Sydowiella", "Talaromyces", "Taphrina", "Thelocarpon", "Thelonectria", "Thyronectria", "Thyrostroma", "Tomophagus", "Tracylla", "Trametes", "Trechispora", "Trichoderma", "Trichomerium", "Tubercularia", "Tympanis", "Typhula", "Ustilentyloma", "Verticillium", "Volvariella", "Waitea", "Westerdykella", "Wickerhamomyces", "Xenodidymella", "Xeromphalina", "Xylaria", "Zasmidium", "Zygosaccharomyces"],
+    "shared_genus_n": 225,
+    "shared_species": ["Acarosporina_microspora", "Acrocalymma_walkeri", "Agrocybe_pediades", "Alfaria_cyperi-esculenti", "Alternaria_vitis", "Anthostoma_decipiens", "Antrodia_sinuosa", "Apinisia_graminicola", "Armillaria_borealis", "Armillaria_mellea", "Armillaria_ostoyae", "Arthrinium_arundinis", "Ascochyta_medicaginicola", "Aspergillus_aculeatus", "Aspergillus_flavus", "Aspergillus_japonicus", "Aspergillus_nidulans", "Athelia_arachnoidea", "Aureobasidium_pullulans", "Belizeana_tuberculata", "Bionectria_aureofulva", "Bionectria_ochroleuca", "Bipolaris_cynodontis", "Biscogniauxia_nummularia", "Botryosphaeria_sarmentorum", "Botryosporium_longibrachiatum", "Breviappendix_rostellata", "Bryorella_acrogena", "Bulbillomyces_farinosus", "Bulgaria_inquinans", "Cainiella_borealis", "Calonectria_pyrochroa", "Camarosporidiella_arezzoensis", "Camarosporidiella_halimodendri", "Camarosporidiella_laburni", "Camarosporium_laburni", "Cerioporus_squamosus", "Chaetopyrena_penicillata", "Cladosporium_cladosporioides", "Cladosporium_perangustum", "Cladosporium_tenuissimum", "Cleistosphaera_macrostegia", "Clonostachys_rosea", "Coccodothis_sphaeroidea", "Colletotrichum_anthrisci", "Colletotrichum_hemerocallidis", "Colletotrichum_quinquefoliae", "Coprinopsis_kubickae", "Coprinopsis_psychromorbida", "Corallomycetella_repens", "Coryneum_confusum", "Coryneum_kunzei", "Curvularia_alcornii", "Curvularia_asiatica", "Curvularia_lunata", "Curvularia_sudanensis", "Cylindrodendrum_hubeiense", "Cytospora_tanaitica", "Deconica_phillipsii", "Diaporthe_biguttulata", "Diaporthe_cotoneastri", "Diaporthe_fukushii", "Diaporthe_mali", "Diaporthe_pithya", "Didymella_pinodella", "Dinemasporium_longisetum", "Diplodia_pruni", "Discosia_artocreas", "Discosia_syzygii", "Discostroma_rosae", "Dothiorella_rhamni", "Dothiorella_sarmentorum", "Dubujiana_glandulifera", "Ellisiellina_biciliata", "Englerodothis_kilimandscharica", "Entoloma_clypeatum", "Epicoccum_plurivorum", "Fomitiporia_mediterranea", "Gremmenia_pini-cembrae", "Gymnopus_dryophilus", "Hendersonula_pinicola", "Herpotrichia_herpotrichoides", "Herpotrichia_pinetorum", "Herpotrichia_rhenana", "Hortiboletus_rubellus", "Irpex_lacteus", "Isaria_clonostachoides", "Kabatiella_lini", "Laetiporus_gilbertsonii", "Laetiporus_sulphureus", "Lamproconium_desmazieri", "Lasiodiplodia_chinensis", "Marasmius_tenuissimus", "Marthamyces_emarginatus", "Melanconis_stilbostoma", "Melanconium_betulinum", "Melanconium_bicolor", "Mixia_osmundae", "Monochaetia_compta", "Mucor_lusitanicus", "Mucor_piriformis", "Mycena_nyula", "Nectria_bainii", "Nectria_cinnabarina", "Nectria_javanica", "Nectria_pallida", "Nectria_ramulariae", "Nectria_umbilicata", "Neodeightonia_palmicola", "Neomicrosphaeropsis_italica", "Neomicrosphaeropsis_novorossica", "Neomicrosphaeropsis_rossica", "Neopestalotiopsis_chrysea", "Neopestalotiopsis_ellipsospora", "Neopestalotiopsis_foedans", "Neoscytalidium_orchidacearum", "Nigrospora_oryzae", "Ophiosphaerella_graminicola", "Paraboeremia_putaminum", "Paraleptosphaeria_nitschkei", "Paraphoma_chrysanthemicola", "Paraphoma_radicina", "Parascedosporium_putredinis", "Penicillium_chrysogenum", "Penicillium_glabrum", "Penicillium_polonicum", "Penicillium_ulaiense", "Perenniporia_subacida", "Pestalosphaeria_hansenii", "Pestalotiopsis_oxyanthi", "Pestalotiopsis_trachycarpicola", "Phaeocalicium_betulinum", "Phaeocalicium_boreale", "Phaeocalicium_compressulum", "Phaeocalicium_flabelliforme", "Phaeocalicium_interruptum", "Phaeocalicium_populneum", "Phaeocalicium_praecedens", "Phaeocalicium_tibetanicum", "Phaeocalicium_tremulicola", "Phaeothyriolum_eucalyptorum", "Phellinotus_piptadeniae", "Phellinus_gilvus", "Phellinus_robiniae", "Pholiota_populnea", "Pholiota_squarrosa", "Pholiota_subpumila", "Phoma_jatropae", "Phoma_radicis-oxycocci", "Phomatodes_nebulosa", "Phomatospora_dinemasporium", "Phomopsis_castaneae-mollissimae", "Phomopsis_longicolla", "Phyllosticta_foliorum", "Phyllosticta_oryzae", "Pseudonectria_callorioides", "Pseudopithomyces_chartarum", "Pseudopithomyces_maydicus", "Pseudovalsa_longipes", "Psilocybe_musci", "Pycnidiochaeta_biciliata", "Pyrenophora_biseptata", "Pyrenophora_phaeocomes", "Rhizopus_arrhizus", "Rhizostilbella_rubra", "Rosellinia_fusispora", "Rosellinia_quercina", "Sarea_resinae", "Schizophyllum_commune", "Seimatosporium_physocarpi", "Seimatosporium_rosae", "Sphagnurus_paluster", "Stenocybe_nitida", "Stereum_hirsutum", "Stereum_lobatum", "Stereum_ostrea", "Stichophoma_acicola", "Sydowia_gregaria", "Sydowia_polyspora", "Taphrina_carpini", "Thelocarpon_epibolum", "Thelonectria_discophora", "Thelonectria_mammoidea", "Thelonectria_rubi", "Thelonectria_truncata", "Tracylla_aristata", "Trametes_hirsuta", "Trametes_ochracea", "Trametes_versicolor", "Trichoderma_koningii", "Trichoderma_viride", "Tubercularia_lateritia", "Tubercularia_miniata", "Ustilentyloma_graminis", "Verticillium_epimyces", "Verticillium_foexii", "Verticillium_intertextum", "Verticillium_pulverulentum", "Westerdykella_minutispora", "Xenodidymella_humicola", "Xylaria_obovata", "Xylaria_polymorpha", "Zasmidium_oxycocci"],
+    "shared_species_n": 203
   },
   {
     "source": "Wood_Saprotroph",
@@ -222,7 +318,11 @@
     "community": 3,
     "community_nodes": ["Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Nematode_Symbiont", "Orchid_Mycorrhizal", "Plant_Pathogen", "Saprotroph", "Wood_Saprotroph"],
     "weight": 135,
-    "width": 34.3886
+    "width": 34.3886,
+    "shared_genus": ["Abortiporus", "Acremonium", "Agrocybe", "Alpinaria", "Alternaria", "Amylostereum", "Antrodia", "Armillaria", "Arthrinium", "Aspergillus", "Athelia", "Bjerkandera", "Bondarzewia", "Bulgaria", "Calonectria", "Cephalotrichum", "Ceratocystis", "Cerioporus", "Cerrena", "Chaetomium", "Chaetosphaeria", "Cladosporium", "Clitocybe", "Clonostachys", "Collybia", "Coltricia", "Coniferiporia", "Conoplea", "Coprinopsis", "Corticium", "Cylindrocarpon", "Daedalea", "Daedaleopsis", "Deconica", "Didymella", "Discula", "Echinodontium", "Entoloma", "Epicoccum", "Eutypella", "Fistulina", "Fomes", "Fomitopsis", "Fulvifomes", "Fusarium", "Fuscoporia", "Galerina", "Ganoderma", "Gloeocystidiellum", "Gloeopeniophorella", "Granulobasidium", "Graphium", "Grifola", "Hericium", "Heterobasidion", "Hydnoporia", "Hyphodontia", "Inocutis", "Inonotus", "Irpex", "Irpiciporus", "Juxtiphoma", "Laetiporus", "Lentinus", "Mycena", "Nectria", "Neoantrodia", "Niveoporofomes", "Obba", "Onnia", "Ophiostoma", "Pappia", "Paraphoma", "Penicillium", "Peniophora", "Penttilamyces", "Perenniporia", "Pestalotia", "Pestalotiopsis", "Phaeoacremonium", "Phaeolus", "Phanerochaete", "Phanerodontia", "Phellinidium", "Phellinopsis", "Phellinus", "Phialocephala", "Phialophora", "Pholiota", "Phoma", "Phylloporia", "Pleurostoma", "Pleurotus", "Pluteus", "Polyporus", "Porodaedalea", "Postia", "Pseudogymnopilus", "Pseudoinonotus", "Psilocybe", "Pyrofomes", "Resinicium", "Rhizochaete", "Rigidoporus", "Rubellofomes", "Ryvardenia", "Sanghuangporus", "Sarcodontia", "Sarocladium", "Schizophyllum", "Scytalidium", "Scytinostroma", "Septobasidium", "Sidera", "Sistotrema", "Stachybotrys", "Steccherinum", "Stereum", "Talaromyces", "Thelonectria", "Tomophagus", "Torula", "Trametes", "Trechispora", "Trichoderma", "Tyromyces", "Urnula", "Vanderbylia", "Volvariella", "Westerdykella", "Xenasmatella", "Xeromphalina", "Xylaria", "Xylobolus", "Xylodon"],
+    "shared_genus_n": 135,
+    "shared_species": ["Abortiporus_biennis", "Alpinaria_rhododendri", "Alternaria_consortialis", "Antrodia_sinuosa", "Armillaria_luteobubalina", "Arthrinium_arundinis", "Athelia_arachnoidea", "Bjerkandera_adusta", "Bulgaria_inquinans", "Calonectria_gracilis", "Ceratocystis_albida", "Ceratocystis_piceae", "Ceratocystis_pilifera", "Cerioporus_squamosus", "Chaetomium_globosum", "Cladosporium_herbarum", "Clonostachys_rosea", "Coniferiporia_sulphurascens", "Coniferiporia_weirii", "Conoplea_globosa", "Corticium_confine", "Corticium_roseum", "Cylindrocarpon_magnusianum", "Daedaleopsis_confragosa", "Didymella_glomerata", "Discula_pinicola", "Epicoccum_nigrum", "Eutypella_parasitica", "Fistulina_antarctica", "Fomes_fasciatus", "Fomes_fomentarius", "Fomitopsis_betulina", "Fomitopsis_pinicola", "Fusarium_solani", "Fuscoporia_wahlbergii", "Gloeopeniophorella_sacrata", "Granulobasidium_vellereum", "Graphium_rigidum", "Grifola_frondosa", "Grifola_sordulenta", "Inonotus_hispidus", "Inonotus_micantissimus", "Irpiciporus_pachyodon", "Juxtiphoma_eupyrena", "Lentinus_sajor_caju", "Nectria_balansae", "Nectria_cinnabarina", "Nectria_polythalama", "Nectria_pseudotrichia", "Neoantrodia_serialis", "Niveoporofomes_spraguei", "Obba_valdiviana", "Pappia_fissilis", "Pestalotiopsis_funerea", "Phaeoacremonium_parasiticum", "Phaeolus_schweinitzii", "Phanerodontia_chrysosporium", "Phellinus_gilvus", "Phellinus_rimosus", "Phellinus_robiniae", "Phoma_pigmentivora", "Phylloporia_ribis", "Phylloporia_spathulata", "Pleurostoma_richardsiae", "Pleurotus_australis", "Porodaedalea_pini", "Postia_balsamea", "Pseudogymnopilus_pampeanus", "Pseudoinonotus_crustosus", "Pseudoinonotus_dryadeus", "Pyrofomes_demidoffii", "Rigidoporus_microporus", "Sanghuangporus_baumii", "Sarcodontia_spumea", "Sarocladium_kiliense", "Schizophyllum_commune", "Scytalidium_cuboideum", "Sidera_lenis", "Sistotrema_raduloides", "Stachybotrys_chartarum", "Stereum_hirsutum", "Stereum_ostrea", "Talaromyces_funiculosus", "Talaromyces_rugulosus", "Thelonectria_lucida", "Tomophagus_colossus", "Trametes_hirsuta", "Trametes_ochracea", "Trametes_stuckertiana", "Trametes_versicolor", "Urnula_craterium", "Xenasmatella_alnicola", "Xylaria_polymorpha", "Xylodon_flaviporus"],
+    "shared_species_n": 94
   },
   {
     "source": "Dung_Saprotroph",
@@ -231,7 +331,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 12,
-    "width": 17.9546
+    "width": 17.9546,
+    "shared_genus": ["Cercophora", "Chaetomium", "Coniochaeta", "Delitschia", "Neoschizothecium", "Panaeolus", "Podospora", "Preussia", "Rhizopus", "Sordaria", "Sporormiella", "Thelebolus"],
+    "shared_genus_n": 12,
+    "shared_species": ["Cercophora_coprophila", "Chaetomium_globosum", "Coniochaeta_tetraspora", "Neoschizothecium_glutinans", "Panaeolus_acuminatus", "Podospora_intestinacea", "Podospora_pleiospora", "Rhizopus_stolonifer", "Sporormiella_minima", "Thelebolus_microsporus"],
+    "shared_species_n": 10
   },
   {
     "source": "Epiphyte",
@@ -240,7 +344,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Chaetomium",
+    "shared_genus_n": 1,
+    "shared_species": "Chaetomium_globosum",
+    "shared_species_n": 1
   },
   {
     "source": "Fungal_Parasite",
@@ -249,7 +357,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Piptocephalis", "Psathyrella"],
+    "shared_genus_n": 2,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Dung_Saprotroph",
@@ -258,7 +370,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 7,
-    "width": 14.5561
+    "width": 14.5561,
+    "shared_genus": ["Arachniotus", "Coniochaeta", "Histoplasma", "Microascus", "Mucor", "Rhizopus", "Westerdykella"],
+    "shared_genus_n": 7,
+    "shared_species": "Histoplasma_capsulatum",
+    "shared_species_n": 1
   },
   {
     "source": "Insect_Pathogen",
@@ -267,7 +383,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Chaetomium",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Dung_Saprotroph",
@@ -276,7 +396,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Ascodesmis", "Coniochaeta", "Preussia"],
+    "shared_genus_n": 3,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Dung_Saprotroph",
@@ -285,7 +409,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 21,
-    "width": 21.6373
+    "width": 21.6373,
+    "shared_genus": ["Agrocybe", "Bolbitius", "Cheilymenia", "Conocybe", "Coprinellus", "Coprinopsis", "Coprinus", "Crucibulum", "Deconica", "Microascus", "Mucor", "Panaeolus", "Parasola", "Peziza", "Protostropharia", "Psathyrella", "Psilocybe", "Rhizopus", "Stilbella", "Stropharia", "Westerdykella"],
+    "shared_genus_n": 21,
+    "shared_species": ["Agrocybe_pediades", "Agrocybe_tunicola", "Bolbitius_titubans", "Conocybe_antipus", "Conocybe_aurea", "Conocybe_cettoiana", "Conocybe_fuscimarginata", "Conocybe_juniana", "Conocybe_macrospora", "Conocybe_pubescens", "Conocybe_rickenii", "Conocybe_subpubescens", "Coprinellus_congregatus", "Coprinellus_heptemerus", "Coprinellus_heterosetulosus", "Coprinellus_marculentus", "Coprinellus_pellucidus", "Coprinellus_sassii", "Coprinopsis_cinerea", "Coprinopsis_cordispora", "Coprinopsis_ephemeroides", "Coprinopsis_foetidella", "Coprinopsis_luteocephala", "Coprinopsis_macrocephala", "Coprinopsis_patouillardii", "Coprinopsis_poliomalla", "Coprinopsis_sclerotiger", "Coprinopsis_sclerotiorum", "Coprinopsis_stercorea", "Coprinopsis_xenobia", "Coprinus_comatus", "Crucibulum_laeve", "Deconica_coprophila", "Deconica_merdaria", "Panaeolus_acuminatus", "Panaeolus_cyanescens", "Panaeolus_papilionaceus", "Panaeolus_semiovatus", "Parasola_schroeteri", "Protostropharia_dorsipora", "Protostropharia_luteonitens", "Protostropharia_semiglobata", "Psathyrella_fimiseda", "Psathyrella_hirta", "Psathyrella_prona", "Psathyrella_reticulata", "Psathyrella_scatophila", "Psathyrella_tenuicula", "Psilocybe_argentina", "Psilocybe_cubensis", "Psilocybe_subaeruginascens"],
+    "shared_species_n": 51
   },
   {
     "source": "Wood_Saprotroph",
@@ -294,7 +422,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 9,
-    "width": 16.1181
+    "width": 16.1181,
+    "shared_genus": ["Agrocybe", "Chaetomium", "Coprinellus", "Coprinopsis", "Deconica", "Psathyrella", "Psilocybe", "Sporormiella", "Westerdykella"],
+    "shared_genus_n": 9,
+    "shared_species": ["Chaetomium_globosum", "Chaetomium_spirale", "Sporormiella_minima"],
+    "shared_species_n": 3
   },
   {
     "source": "Ectomycorrhizal",
@@ -303,7 +435,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Ceratobasidium", "Hyaloscypha", "Tulasnella"],
+    "shared_genus_n": 3,
+    "shared_species": ["Hyaloscypha_bicolor", "Tulasnella_calospora"],
+    "shared_species_n": 2
   },
   {
     "source": "Fungal_Parasite",
@@ -312,7 +448,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Clitocybe", "Entoloma"],
+    "shared_genus_n": 2,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Ectomycorrhizal",
@@ -321,7 +461,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Arrhenia", "Ceratobasidium"],
+    "shared_genus_n": 2,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Ectomycorrhizal",
@@ -330,7 +474,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 35,
-    "width": 25.0846
+    "width": 25.0846,
+    "shared_genus": ["Amanita", "Arrhenia", "Boletus", "Byssocorticium", "Cantharellula", "Clavaria", "Clavulicium", "Clavulina", "Clitocybe", "Cortinarius", "Cystoderma", "Elaphomyces", "Entocybe", "Entoloma", "Geastrum", "Gloeocantharellus", "Hortiboletus", "Hyaloscypha", "Hygrocybe", "Hygrophorus", "Laccaria", "Leucopaxillus", "Lyophyllum", "Phaeoclavulina", "Phaeocollybia", "Porpoloma", "Protubera", "Ramaria", "Rhodocollybia", "Russula", "Sebacina", "Simocybe", "Sistotrema", "Tephrocybe", "Turbinellus"],
+    "shared_genus_n": 35,
+    "shared_species": ["Arrhenia_auriscalpium", "Byssocorticium_atrovirens", "Cantharellula_umbonata", "Clitocybe_eucalyptorum", "Cortinarius_spC", "Elaphomyces_granulatus", "Entocybe_nitida", "Entoloma_alpicola", "Entoloma_clypeatum", "Entoloma_prunuloides", "Entoloma_sericatum", "Entoloma_sericeum", "Entoloma_sinuatum", "Geastrum_fimbriatum", "Hortiboletus_rubellus", "Hyaloscypha_bicolor", "Lyophyllum_decastes", "Lyophyllum_semitale", "Phaeoclavulina_eumorpha", "Ramaria_rubella", "Rhodocollybia_butyracea", "Tephrocybe_ambusta", "Tephrocybe_anthracophila"],
+    "shared_species_n": 23
   },
   {
     "source": "Wood_Saprotroph",
@@ -339,7 +487,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 11,
-    "width": 17.3943
+    "width": 17.3943,
+    "shared_genus": ["Albatrellus", "Amauroderma", "Amylostereum", "Clitocybe", "Coltricia", "Entoloma", "Lactifluus", "Naucoria", "Paxillus", "Phaeocollybia", "Sistotrema"],
+    "shared_genus_n": 11,
+    "shared_species": ["Lactifluus_volemus", "Naucoria_amarescens", "Phaeocollybia_sp"],
+    "shared_species_n": 3
   },
   {
     "source": "Epiphyte",
@@ -348,7 +500,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 4,
-    "width": 11.2661
+    "width": 11.2661,
+    "shared_genus": ["Aureobasidium", "Candida", "Chaetomium", "Cladosporium"],
+    "shared_genus_n": 4,
+    "shared_species": ["Aureobasidium_pullulans", "Chaetomium_globosum", "Cladosporium_cladosporioides"],
+    "shared_species_n": 3
   },
   {
     "source": "Fungal_Parasite",
@@ -357,7 +513,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 12,
-    "width": 17.9546
+    "width": 17.9546,
+    "shared_genus": ["Acremonium", "Acrostalagmus", "Ampelomyces", "Bionectria", "Cercospora", "Epicoccum", "Hansfordia", "Melanospora", "Nectria", "Paraphaeosphaeria", "Trichoderma", "Verticillium"],
+    "shared_genus_n": 12,
+    "shared_species": ["Acrostalagmus_luteoalbus", "Ampelomyces_quisqualis", "Bionectria_ochroleuca", "Epicoccum_nigrum", "Paraphaeosphaeria_minitans", "Trichoderma_harzianum"],
+    "shared_species_n": 6
   },
   {
     "source": "Endophyte",
@@ -366,7 +526,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 28,
-    "width": 23.5711
+    "width": 23.5711,
+    "shared_genus": ["Acremonium", "Alternaria", "Arthrographis", "Aspergillus", "Aureobasidium", "Cadophora", "Candida", "Capronia", "Cladophialophora", "Cladosporium", "Coniochaeta", "Curvularia", "Exophiala", "Fusarium", "Gibberella", "Lasiodiplodia", "Penicillium", "Phialocephala", "Phialophora", "Phyllosticta", "Pseudozyma", "Rhizopus", "Rhodotorula", "Sarocladium", "Schizophyllum", "Scolecobasidium", "Scytalidium", "Trichoderma"],
+    "shared_genus_n": 28,
+    "shared_species": ["Alternaria_infectoria", "Aspergillus_melleus", "Aureobasidium_pullulans", "Candida_tropicalis", "Curvularia_australiensis", "Curvularia_lunata", "Fusarium_anthophilum", "Fusarium_fujikuroi", "Fusarium_solani", "Lasiodiplodia_theobromae", "Phialophora_verrucosa", "Sarocladium_kiliense", "Schizophyllum_commune"],
+    "shared_species_n": 13
   },
   {
     "source": "Insect_Pathogen",
@@ -375,7 +539,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 5,
-    "width": 12.5423
+    "width": 12.5423,
+    "shared_genus": ["Acrostalagmus", "Akanthomyces", "Chaetomium", "Epichloe", "Ophiocordyceps"],
+    "shared_genus_n": 5,
+    "shared_species": ["Akanthomyces_lecanii", "Ophiocordyceps_sobolifera"],
+    "shared_species_n": 2
   },
   {
     "source": "Endophyte",
@@ -384,7 +552,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 21,
-    "width": 21.6373
+    "width": 21.6373,
+    "shared_genus": ["Acremonium", "Capronia", "Ceratobasidium", "Cladophialophora", "Cladosporium", "Coniochaeta", "Corynespora", "Didymosphaeria", "Epicoccum", "Fusarium", "Monodictys", "Nectria", "Phoma", "Phomatospora", "Phyllosticta", "Preussia", "Pseudocercospora", "Pyrenochaetopsis", "Ramichloridium", "Stagonospora", "Venturia"],
+    "shared_genus_n": 21,
+    "shared_species": ["Epicoccum_nigrum", "Pyrenochaetopsis_microspora"],
+    "shared_species_n": 2
   },
   {
     "source": "Endophyte",
@@ -393,7 +565,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 86,
-    "width": 31.2614
+    "width": 31.2614,
+    "shared_genus": ["Acremonium", "Acrocalymma", "Acrostalagmus", "Allophoma", "Alternaria", "Alternariaster", "Apenidiella", "Arthrinium", "Aspergillus", "Aureobasidium", "Bactrodesmium", "Bartalinia", "Bionectria", "Bipolaris", "Boeremia", "Botryosphaeria", "Calonectria", "Camarosporium", "Candida", "Chaetosphaeria", "Cladosporium", "Clonostachys", "Coccomyces", "Colletotrichum", "Coniella", "Corollospora", "Corynespora", "Curvularia", "Cylindrotrichum", "Cytospora", "Diaporthe", "Dissophora", "Dothidea", "Dothiorella", "Dubujiana", "Epicoccum", "Exidia", "Exophiala", "Fusarium", "Fusicladium", "Hortaea", "Hyaloscypha", "Isaria", "Kabatiella", "Keissleriella", "Lasiodiplodia", "Lophodermium", "Marasmiellus", "Mollisia", "Monodictys", "Muyocopron", "Nectria", "Neocucurbitaria", "Neopestalotiopsis", "Nigrospora", "Ophiosphaerella", "Oxydothis", "Panaeolus", "Paraphaeosphaeria", "Penicillium", "Periconia", "Pestalotiopsis", "Pezicula", "Phoma", "Phomatospora", "Phomopsis", "Phyllosticta", "Pseudocamarosporium", "Pseudonectria", "Pyrenophora", "Ramichloridium", "Rhizopus", "Rhodotorula", "Rosellinia", "Sarea", "Schizophyllum", "Splanchnonema", "Stegonsporium", "Stichophoma", "Sydowia", "Tetrapyrgos", "Trichoderma", "Verticillium", "Xylaria", "Zasmidium", "Zygosporium"],
+    "shared_genus_n": 86,
+    "shared_species": ["Acrostalagmus_luteoalbus", "Allophoma_tropica", "Apenidiella_strumelloidea", "Aspergillus_amstelodami", "Aureobasidium_pullulans", "Bactrodesmium_betulicola", "Bionectria_aureofulva", "Bionectria_ochroleuca", "Candida_tropicalis", "Cladosporium_cladosporioides", "Cladosporium_tenuissimum", "Clonostachys_rosea", "Coccomyces_dentatus", "Coniella_paracastaneicola", "Corollospora_maritima", "Curvularia_lunata", "Diaporthe_biguttulata", "Diaporthe_cotoneastri", "Diaporthe_fukushii", "Diaporthe_mali", "Diaporthe_pithya", "Dissophora_globulifera", "Dubujiana_glandulifera", "Exidia_uvapassa", "Hortaea_werneckii", "Hyaloscypha_bicolor", "Isaria_clonostachoides", "Marasmiellus_tricolor", "Monodictys_paradoxa", "Nectria_bainii", "Nectria_javanica", "Nectria_pallida", "Neocucurbitaria_acerina", "Nigrospora_oryzae", "Panaeolus_acuminatus", "Periconia_pseudobyssoides", "Pestalotiopsis_oxyanthi", "Phomopsis_castaneae-mollissimae", "Phomopsis_longicolla", "Pseudonectria_callorioides", "Sarea_resinae", "Schizophyllum_commune", "Splanchnonema_argus", "Splanchnonema_scoriadeum", "Stegonsporium_betulae", "Stichophoma_acicola", "Sydowia_gregaria", "Sydowia_polyspora", "Trichoderma_koningii", "Verticillium_epimyces", "Verticillium_foexii", "Verticillium_intertextum", "Verticillium_pulverulentum", "Xylaria_obovata"],
+    "shared_species_n": 54
   },
   {
     "source": "Wood_Saprotroph",
@@ -402,7 +578,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 29,
-    "width": 23.8084
+    "width": 23.8084,
+    "shared_genus": ["Acremonium", "Alternaria", "Arthrinium", "Aspergillus", "Calonectria", "Ceratocystis", "Chaetomium", "Chaetosphaeria", "Cladosporium", "Clonostachys", "Dichotomopilus", "Epicoccum", "Fusarium", "Monodictys", "Nectria", "Penicillium", "Pestalotia", "Pestalotiopsis", "Phialocephala", "Phialophora", "Phoma", "Sarocladium", "Schizophyllum", "Scytalidium", "Sporormiella", "Thermothielavioides", "Torula", "Trichoderma", "Xylaria"],
+    "shared_genus_n": 29,
+    "shared_species": ["Chaetomium_globosum", "Clonostachys_rosea", "Dichotomopilus_funicola", "Epicoccum_nigrum", "Fusarium_solani", "Sarocladium_kiliense", "Schizophyllum_commune", "Sporormiella_minima", "Thermothielavioides_terrestris", "Xylaria_hypoxylon"],
+    "shared_species_n": 10
   },
   {
     "source": "Epiphyte",
@@ -411,7 +591,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 6,
-    "width": 13.6214
+    "width": 13.6214,
+    "shared_genus": ["Aureobasidium", "Candida", "Cladosporium", "Meyerozyma", "Microsphaeropsis", "Papiliotrema"],
+    "shared_genus_n": 6,
+    "shared_species": ["Aureobasidium_pullulans", "Microsphaeropsis_arundinis", "Microsphaeropsis_olivacea"],
+    "shared_species_n": 3
   },
   {
     "source": "Insect_Pathogen",
@@ -420,7 +604,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Chaetomium",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Epiphyte",
@@ -429,7 +617,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Athelia", "Cladosporium", "Microsphaeropsis"],
+    "shared_genus_n": 3,
+    "shared_species": "Athelia_arachnoidea",
+    "shared_species_n": 1
   },
   {
     "source": "Epiphyte",
@@ -438,7 +630,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 7,
-    "width": 14.5561
+    "width": 14.5561,
+    "shared_genus": ["Athelia", "Aureobasidium", "Candida", "Cladosporium", "Filobasidium", "Meyerozyma", "Microsphaeropsis"],
+    "shared_genus_n": 7,
+    "shared_species": ["Athelia_arachnoidea", "Aureobasidium_pullulans", "Cladosporium_cladosporioides", "Microsphaeropsis_olivacea"],
+    "shared_species_n": 4
   },
   {
     "source": "Epiphyte",
@@ -447,7 +643,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Athelia", "Chaetomium", "Cladosporium"],
+    "shared_genus_n": 3,
+    "shared_species": ["Athelia_arachnoidea", "Chaetomium_globosum"],
+    "shared_species_n": 2
   },
   {
     "source": "Ericoid_Mycorrhizal",
@@ -456,7 +656,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Myxotrichum",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Fungal_Parasite",
@@ -465,7 +669,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Acremonium", "Lecanicillium", "Trichoderma"],
+    "shared_genus_n": 3,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Insect_Pathogen",
@@ -474,7 +682,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 5,
-    "width": 12.5423
+    "width": 12.5423,
+    "shared_genus": ["Acrostalagmus", "Cosmospora", "Endothia", "Lecanicillium", "Polycephalomyces"],
+    "shared_genus_n": 5,
+    "shared_species": "Endothia_paraguayensis",
+    "shared_species_n": 1
   },
   {
     "source": "Fungal_Parasite",
@@ -483,7 +695,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 8,
-    "width": 15.3806
+    "width": 15.3806,
+    "shared_genus": ["Acremonium", "Ascochyta", "Endothia", "Epicoccum", "Hyphodiscus", "Nectria", "Syzygospora", "Tremella"],
+    "shared_genus_n": 8,
+    "shared_species": ["Endothia_paraguayensis", "Epicoccum_nigrum"],
+    "shared_species_n": 2
   },
   {
     "source": "Fungal_Parasite",
@@ -492,7 +708,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 24,
-    "width": 22.5321
+    "width": 22.5321,
+    "shared_genus": ["Acremonium", "Acrostalagmus", "Ascochyta", "Bionectria", "Clitocybe", "Clitopilus", "Collybia", "Dendrocollybia", "Entoloma", "Epicoccum", "Hydropisphaera", "Nectria", "Occultifur", "Paraphaeosphaeria", "Phaeocalicium", "Psathyrella", "Rhodocybe", "Rhodophana", "Sagaranella", "Syzygospora", "Tremella", "Trichoderma", "Verticillium", "Volvariella"],
+    "shared_genus_n": 24,
+    "shared_species": ["Acrostalagmus_luteoalbus", "Bionectria_ochroleuca", "Clitopilus_passeckerianus", "Collybia_cookei", "Collybia_tuberosa", "Dendrocollybia_racemosa", "Epicoccum_mackenziei", "Nectria_inventa", "Phaeocalicium_polyporaeum", "Psathyrella_epimyces", "Rhodophana_stangliana", "Sagaranella_tylicolor", "Tremella_fuciformis"],
+    "shared_species_n": 13
   },
   {
     "source": "Fungal_Parasite",
@@ -501,7 +721,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 12,
-    "width": 17.9546
+    "width": 17.9546,
+    "shared_genus": ["Acremonium", "Clitocybe", "Collybia", "Entoloma", "Epicoccum", "Harzia", "Junghuhnia", "Nectria", "Psathyrella", "Sphaerostilbella", "Trichoderma", "Volvariella"],
+    "shared_genus_n": 12,
+    "shared_species": ["Epicoccum_nigrum", "Junghuhnia_nitida", "Sphaerostilbella_penicillioides"],
+    "shared_species_n": 3
   },
   {
     "source": "Insect_Pathogen",
@@ -510,7 +734,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 4,
-    "width": 11.2661
+    "width": 11.2661,
+    "shared_genus": ["Beauveria", "Lecanicillium", "Metarhizium", "Torrubiella"],
+    "shared_genus_n": 4,
+    "shared_species": "Torrubiella_wallacei",
+    "shared_species_n": 1
   },
   {
     "source": "Human_Pathogen",
@@ -519,7 +747,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 11,
-    "width": 17.3943
+    "width": 17.3943,
+    "shared_genus": ["Acremonium", "Capronia", "Cladophialophora", "Cladosporium", "Coniochaeta", "Didymella", "Fusarium", "Graphium", "Microsphaeropsis", "Phyllosticta", "Trematosphaeria"],
+    "shared_genus_n": 11,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Human_Pathogen",
@@ -528,7 +760,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 44,
-    "width": 26.6466
+    "width": 26.6466,
+    "shared_genus": ["Acremonium", "Alternaria", "Aspergillus", "Aureobasidium", "Candida", "Cladosporium", "Coccidioides", "Curvularia", "Debaryomyces", "Didymella", "Diplodia", "Exophiala", "Fusarium", "Gymnascella", "Lachancea", "Lasiodiplodia", "Lichtheimia", "Metschnikowia", "Meyerozyma", "Microascus", "Microsphaeropsis", "Mucor", "Mycotypha", "Neoscytalidium", "Penicillium", "Phaeoisaria", "Phyllosticta", "Pichia", "Pseudopithomyces", "Rhizopus", "Rhodotorula", "Saccharomyces", "Scheffersomyces", "Schizophyllum", "Stachybotrys", "Talaromyces", "Torrubiella", "Trichoderma", "Vishniacozyma", "Westerdykella", "Wickerhamomyces", "Yarrowia", "Zygoascus", "Zymonema"],
+    "shared_genus_n": 44,
+    "shared_species": ["Aspergillus_fumigatus", "Aspergillus_japonicus", "Aspergillus_montevidensis", "Aspergillus_ruber", "Aureobasidium_pullulans", "Candida_glabrata", "Candida_tropicalis", "Coccidioides_immitis", "Coccidioides_posadasii", "Curvularia_lunata", "Debaryomyces_hansenii", "Exophiala_dermatitidis", "Fusarium_napiforme", "Lichtheimia_corymbifera", "Meyerozyma_guilliermondii", "Microsphaeropsis_olivacea", "Penicillium_commune", "Phyllosticta_oryzae", "Pseudopithomyces_chartarum", "Rhizopus_arrhizus", "Schizophyllum_commune", "Schizophyllum_radiatum", "Torrubiella_wallacei", "Vishniacozyma_victoriae", "Westerdykella_minutispora", "Wickerhamomyces_anomalus", "Zymonema_dermatitidis"],
+    "shared_species_n": 27
   },
   {
     "source": "Wood_Saprotroph",
@@ -537,7 +773,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 22,
-    "width": 21.9485
+    "width": 21.9485,
+    "shared_genus": ["Acremonium", "Alternaria", "Aspergillus", "Cladosporium", "Didymella", "Fusarium", "Graphium", "Penicillium", "Phaeoacremonium", "Phialemonium", "Phialocephala", "Phialophora", "Pleurostoma", "Pseudallescheria", "Rasamsonia", "Sarocladium", "Schizophyllum", "Scytalidium", "Stachybotrys", "Talaromyces", "Trichoderma", "Westerdykella"],
+    "shared_genus_n": 22,
+    "shared_species": ["Fusarium_solani", "Phaeoacremonium_parasiticum", "Phialemonium_atrogriseum", "Pleurostoma_richardsiae", "Pseudallescheria_boydii", "Sarocladium_kiliense", "Schizophyllum_commune", "Scytalidium_cuboideum", "Stachybotrys_chartarum", "Talaromyces_diversus", "Talaromyces_funiculosus", "Talaromyces_rugulosus"],
+    "shared_species_n": 12
   },
   {
     "source": "Insect_Pathogen",
@@ -546,7 +786,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Endothia",
+    "shared_genus_n": 1,
+    "shared_species": "Endothia_paraguayensis",
+    "shared_species_n": 1
   },
   {
     "source": "Insect_Pathogen",
@@ -555,7 +799,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 5,
-    "width": 12.5423
+    "width": 12.5423,
+    "shared_genus": ["Acrostalagmus", "Basidiobolus", "Conidiobolus", "Septobasidium", "Torrubiella"],
+    "shared_genus_n": 5,
+    "shared_species": ["Basidiobolus_ranarum", "Conidiobolus_coronatus", "Septobasidium_pilosum", "Torrubiella_wallacei"],
+    "shared_species_n": 4
   },
   {
     "source": "Insect_Pathogen",
@@ -564,7 +812,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Chaetomium", "Septobasidium"],
+    "shared_genus_n": 2,
+    "shared_species": ["Chaetomium_piluliferum", "Septobasidium_rhabarbarinum"],
+    "shared_species_n": 2
   },
   {
     "source": "Lichen_Parasite",
@@ -573,7 +825,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 42,
-    "width": 26.3284
+    "width": 26.3284,
+    "shared_genus": ["Acremonium", "Arrhenia", "Arthonia", "Ascochyta", "Athelia", "Berkleasmium", "Calicium", "Chaenothecopsis", "Chalara", "Cladosporium", "Corynespora", "Didymella", "Distopyrenis", "Ellisembia", "Endophragmiella", "Epicoccum", "Erythricium", "Fusarium", "Gamundia", "Knufia", "Leptorhaphis", "Leptosphaeria", "Marchandiomyces", "Melanomma", "Microcalicium", "Microsphaeropsis", "Monodictys", "Mycocalicium", "Myxotrichum", "Nectria", "Phoma", "Phomatospora", "Phyllosticta", "Protothelenella", "Pyrenochaeta", "Pyrenula", "Ramichloridium", "Stenocybe", "Syzygospora", "Thelocarpon", "Tremella", "Xerotrema"],
+    "shared_genus_n": 42,
+    "shared_species": ["Arthonia_beccariana", "Athelia_arachnoidea", "Chaenothecopsis_pusilla", "Chaenothecopsis_tasmanica", "Chaenothecopsis_viridireagens", "Erythricium_aurantiacum", "Gamundia_leucophylla", "Marchandiomyces_lignicola", "Microcalicium_disseminatum", "Phomatospora_dinemasporium", "Pyrenula_coryli", "Stenocybe_septata", "Thelocarpon_epibolum", "Thelocarpon_lichenicola"],
+    "shared_species_n": 14
   },
   {
     "source": "Wood_Saprotroph",
@@ -582,7 +838,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 11,
-    "width": 17.3943
+    "width": 17.3943,
+    "shared_genus": ["Acremonium", "Athelia", "Cladosporium", "Didymella", "Epicoccum", "Fusarium", "Graphium", "Monodictys", "Nectria", "Penttilamyces", "Phoma"],
+    "shared_genus_n": 11,
+    "shared_species": ["Athelia_arachnoidea", "Epicoccum_nigrum"],
+    "shared_species_n": 2
   },
   {
     "source": "Wood_Saprotroph",
@@ -591,7 +851,11 @@
     "community": 4,
     "community_nodes": ["Dung_Saprotroph", "Ectomycorrhizal", "Endophyte", "Epiphyte", "Ericoid_Mycorrhizal", "Fungal_Parasite", "Human_Pathogen", "Insect_Pathogen", "Lichen_Parasite", "Saprotroph", "Wood_Saprotroph"],
     "weight": 78,
-    "width": 30.5861
+    "width": 30.5861,
+    "shared_genus": ["Acremonium", "Agrocybe", "Aleurodiscus", "Alternaria", "Antrodia", "Armillaria", "Arthrinium", "Aspergillus", "Athelia", "Atractosporocybe", "Auricularia", "Bondarzewia", "Bulgaria", "Calonectria", "Cerioporus", "Chaetosphaeria", "Cladosporium", "Climacodon", "Clitocybe", "Clonostachys", "Collybia", "Coprinellus", "Coprinopsis", "Cyclocybe", "Cylindrocarpon", "Deconica", "Didymella", "Echinodontium", "Entoloma", "Epicoccum", "Fusarium", "Galerina", "Hymenochaete", "Hypholoma", "Irpex", "Ischnoderma", "Kuehneromyces", "Laetiporus", "Lentaria", "Leratiomyces", "Monodictys", "Mycena", "Nectria", "Paraphoma", "Penicillium", "Peniophorella", "Perenniporia", "Pestalotiopsis", "Phaeocollybia", "Phellinus", "Pholiota", "Phoma", "Pluteus", "Propolis", "Psathyrella", "Psilocybe", "Schizophyllum", "Septobasidium", "Sistotrema", "Stachybotrys", "Stereum", "Talaromyces", "Tapinella", "Terana", "Thelonectria", "Tomophagus", "Trametes", "Trechispora", "Trichaptum", "Trichoderma", "Tricholomopsis", "Trogia", "Tubaria", "Volvariella", "Volvopluteus", "Westerdykella", "Xeromphalina", "Xylaria"],
+    "shared_genus_n": 78,
+    "shared_species": ["Agrocybe_dura", "Agrocybe_praecox", "Agrocybe_rivulosa", "Agrocybe_smithii", "Agrocybe_vervacti", "Antrodia_sinuosa", "Arthrinium_arundinis", "Athelia_arachnoidea", "Atractosporocybe_inornata", "Auricularia_auricula_judae", "Bondarzewia_mesenterica", "Bulgaria_inquinans", "Cerioporus_squamosus", "Climacodon_septentrionalis", "Clonostachys_rosea", "Coprinellus_disseminatus", "Coprinellus_truncorum", "Coprinopsis_karwinicola", "Cyclocybe_erebia", "Deconica_horizontalis", "Echinodontium_tinctorium", "Galerina_calyptrata", "Galerina_clavata", "Galerina_graminea", "Galerina_marginata", "Galerina_paludosa", "Galerina_pruinatipes", "Hypholoma_fasciculare", "Hypholoma_lateritium", "Ischnoderma_benzoinum", "Ischnoderma_resinosum", "Kuehneromyces_mutabilis", "Nectria_cinnabarina", "Peniophorella_praetermissa", "Phellinus_gilvus", "Phellinus_robiniae", "Pluteus_cervinus", "Pluteus_cinereofuscus", "Pluteus_leoninus", "Pluteus_salicinus", "Pluteus_umbrosus", "Psathyrella_asperospora", "Psathyrella_bambra", "Psathyrella_echinata", "Schizophyllum_commune", "Stereum_hirsutum", "Stereum_ostrea", "Talaromyces_verruculosus", "Tapinella_atrotomentosa", "Terana_caerulea", "Trametes_hirsuta", "Trametes_ochracea", "Trametes_versicolor", "Trechispora_farinacea", "Trichaptum_abietinum", "Trichaptum_biforme", "Tricholomopsis_rutilans", "Tubaria_furfuracea", "Volvariella_bombycina", "Volvariella_volvacea", "Volvopluteus_gloiocephalus", "Xeromphalina_campanella", "Xylaria_polymorpha"],
+    "shared_species_n": 63
   },
   {
     "source": "Amphibian_Pathogen",
@@ -600,7 +864,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Basidiobolus",
+    "shared_genus_n": 1,
+    "shared_species": "Basidiobolus_ranarum",
+    "shared_species_n": 1
   },
   {
     "source": "Amphibian_Symbiont",
@@ -609,7 +877,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Basidiobolus",
+    "shared_genus_n": 1,
+    "shared_species": "Basidiobolus_ranarum",
+    "shared_species_n": 1
   },
   {
     "source": "Animal_Pathogen",
@@ -618,7 +890,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Candida",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Animal_Pathogen",
@@ -627,7 +903,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Candida",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Animal_Pathogen",
@@ -636,7 +916,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Septobasidium",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Animal_Pathogen",
@@ -645,7 +929,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Candida", "Conidiobolus", "Septobasidium"],
+    "shared_genus_n": 3,
+    "shared_species": "Conidiobolus_coronatus",
+    "shared_species_n": 1
   },
   {
     "source": "Animal_Pathogen",
@@ -654,7 +942,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Septobasidium",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Biotrophic_plant_pathogen",
@@ -663,7 +955,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Pseudozyma",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Biotrophic_plant_pathogen",
@@ -672,7 +968,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Pseudozyma",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Cnidaria_Pathogen",
@@ -681,7 +981,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Aspergillus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Cnidaria_Pathogen",
@@ -690,7 +994,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Aspergillus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Cnidaria_Pathogen",
@@ -699,7 +1007,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Aspergillus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Wood_Saprotroph",
@@ -708,7 +1020,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Aspergillus",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Ectomycorrhizal",
@@ -717,7 +1033,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Hyaloscypha",
+    "shared_genus_n": 1,
+    "shared_species": ["Hyaloscypha_bicolor", "Hyaloscypha_hepaticicola"],
+    "shared_species_n": 2
   },
   {
     "source": "Ectomycorrhizal",
@@ -726,7 +1046,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Hyaloscypha",
+    "shared_genus_n": 1,
+    "shared_species": "Hyaloscypha_bicolor",
+    "shared_species_n": 1
   },
   {
     "source": "Endophyte",
@@ -735,7 +1059,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Cadophora", "Hyaloscypha", "Phialocephala"],
+    "shared_genus_n": 3,
+    "shared_species": "Hyaloscypha_bicolor",
+    "shared_species_n": 1
   },
   {
     "source": "Endophyte",
@@ -744,7 +1072,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Exophiala",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Endophyte",
@@ -753,7 +1085,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Hyaloscypha", "Serendipita"],
+    "shared_genus_n": 2,
+    "shared_species": ["Hyaloscypha_bicolor", "Serendipita_indica"],
+    "shared_species_n": 2
   },
   {
     "source": "Ericoid_Mycorrhizal",
@@ -762,7 +1098,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Cadophora", "Phialocephala"],
+    "shared_genus_n": 2,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Ericoid_Mycorrhizal",
@@ -771,7 +1111,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 2,
-    "width": 7.6903
+    "width": 7.6903,
+    "shared_genus": ["Hyaloscypha", "Myxotrichum"],
+    "shared_genus_n": 2,
+    "shared_species": ["Hyaloscypha_bicolor", "Myxotrichum_setosum"],
+    "shared_species_n": 2
   },
   {
     "source": "Wood_Saprotroph",
@@ -780,7 +1124,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Phialocephala",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Fish_Pathogen",
@@ -789,7 +1137,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Exophiala",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Fish_Pathogen",
@@ -798,7 +1150,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Exophiala",
+    "shared_genus_n": 1,
+    "shared_species": "Exophiala_pisciphila",
+    "shared_species_n": 1
   },
   {
     "source": "Human_Endosymbiont",
@@ -807,7 +1163,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Torrubiella",
+    "shared_genus_n": 1,
+    "shared_species": "Torrubiella_wallacei",
+    "shared_species_n": 1
   },
   {
     "source": "Human_Endosymbiont",
@@ -816,7 +1176,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Torrubiella",
+    "shared_genus_n": 1,
+    "shared_species": "Torrubiella_wallacei",
+    "shared_species_n": 1
   },
   {
     "source": "Human_Pathogen",
@@ -825,7 +1189,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Scheffersomyces",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Saprotroph",
@@ -834,7 +1202,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Scheffersomyces",
+    "shared_genus_n": 1,
+    "shared_species": "Scheffersomyces_stipitis",
+    "shared_species_n": 1
   },
   {
     "source": "Orchid_Mycorrhizal",
@@ -843,7 +1215,11 @@
     "community": 5,
     "community_nodes": ["Amphibian_Pathogen", "Amphibian_Symbiont", "Animal_Pathogen", "Biotrophic_plant_pathogen", "Cnidaria_Pathogen", "Ectomycorrhizal", "Endophyte", "Ericoid_Mycorrhizal", "Fish_Pathogen", "Human_Endosymbiont", "Human_Pathogen", "Insect_Symbiont", "Orchid_Mycorrhizal", "Saprotroph", "Plant_Pathogen", "Wood_Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Hyaloscypha",
+    "shared_genus_n": 1,
+    "shared_species": "Hyaloscypha_bicolor",
+    "shared_species_n": 1
   },
   {
     "source": "Lichen_Parasite",
@@ -852,7 +1228,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 5,
-    "width": 12.5423
+    "width": 12.5423,
+    "shared_genus": ["Chaenothecopsis", "Collemopsidium", "Halecania", "Microcalicium", "Thelocarpon"],
+    "shared_genus_n": 5,
+    "shared_species": ["Chaenothecopsis_savonica", "Halecania_alpivaga", "Microcalicium_arenarium", "Microcalicium_disseminatum"],
+    "shared_species_n": 4
   },
   {
     "source": "Algae_Parasite",
@@ -861,7 +1241,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 8,
-    "width": 15.3806
+    "width": 15.3806,
+    "shared_genus": ["Absconditella", "Chaenothecopsis", "Cladonia", "Collemopsidium", "Fellhanera", "Halecania", "Pisutiella", "Thelocarpon"],
+    "shared_genus_n": 8,
+    "shared_species": ["Absconditella_lignicola", "Chaenothecopsis_savonica", "Collemopsidium_chlorococcum", "Halecania_alpivaga", "Pisutiella_grimmiae"],
+    "shared_species_n": 5
   },
   {
     "source": "Plant_Pathogen",
@@ -870,7 +1254,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Thelocarpon",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Saprotroph",
@@ -879,7 +1267,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 3,
-    "width": 9.7041
+    "width": 9.7041,
+    "shared_genus": ["Chaenothecopsis", "Microcalicium", "Thelocarpon"],
+    "shared_genus_n": 3,
+    "shared_species": ["Microcalicium_ahlneri", "Microcalicium_disseminatum", "Thelocarpon_saxicola"],
+    "shared_species_n": 3
   },
   {
     "source": "Fungal_Parasite",
@@ -888,7 +1280,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Phaeocalicium",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Insect_Pathogen",
@@ -897,7 +1293,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 1,
-    "width": 4.852
+    "width": 4.852,
+    "shared_genus": "Moelleriella",
+    "shared_genus_n": 1,
+    "shared_species": [],
+    "shared_species_n": 0
   },
   {
     "source": "Lichen_Parasite",
@@ -906,7 +1306,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 89,
-    "width": 31.4987
+    "width": 31.4987,
+    "shared_genus": ["Acarospora", "Acolium", "Arthonia", "Arthrorhaphis", "Athallia", "Bibbya", "Bryostigma", "Buellia", "Calicium", "Caloplaca", "Candelariella", "Catenarina", "Catillaria", "Cecidonia", "Chaenothecopsis", "Cliostomum", "Collemopsidium", "Cresponea", "Cryptodiscus", "Dacampia", "Dichoporis", "Dimelaena", "Diploschistes", "Diplotomma", "Distopyrenis", "Endohyalina", "Enterographa", "Epigloea", "Erichansenia", "Flavoplaca", "Glaucomaria", "Gyalideopsis", "Halecania", "Heteroplacidium", "Keratosphaera", "Kiliasia", "Lecania", "Lecanographa", "Lecanora", "Lecidea", "Leptorhaphis", "Lichenothelia", "Lichinodium", "Mazosia", "Melaspilea", "Merismatium", "Micarea", "Milospium", "Miriquidica", "Monerolechia", "Mycocalicium", "Obryzum", "Opegrapha", "Paragyalideopsis", "Paralecanographa", "Phylliscum", "Placocarpus", "Placopyrenium", "Polyblastia", "Polycauliona", "Protoparmelia", "Protothelenella", "Pseudocyphellaria", "Psoroglaena", "Punctelia", "Pyrenothrix", "Pyrenula", "Ramboldia", "Ramonia", "Rhizocarpon", "Rinodina", "Rufoplaca", "Sarcopyrenia", "Schismatomma", "Scutula", "Shackletonia", "Sigridea", "Sphinctrina", "Synarthonia", "Tephromela", "Tetramelas", "Thalloidima", "Thelocarpon", "Toninia", "Toniniopsis", "Tryblidaria", "Tylophoron", "Verrucaria", "Xerotrema"],
+    "shared_genus_n": 89,
+    "shared_species": ["Acarospora_flavisparsa", "Acarospora_insolata", "Acarospora_interjecta", "Acarospora_nodulosa", "Acarospora_obnubila", "Acarospora_obpallens", "Acarospora_robiniae", "Acarospora_scotica", "Acarospora_stapfiana", "Acolium_sessile", "Arthonia_granosa", "Arthonia_infectans", "Arthonia_myriocarpella", "Arthrorhaphis_alpina", "Arthrorhaphis_citrinella", "Arthrorhaphis_grisea", "Arthrorhaphis_muddii", "Athallia_inconnexa", "Bibbya_australis", "Bibbya_hosseusiana", "Bibbya_lutosa", "Bibbya_ruginosa", "Buellia_badia", "Buellia_griseosquamulata", "Buellia_imshaugii", "Buellia_longispora", "Buellia_miriquidica", "Buellia_scheideggeriana", "Buellia_sequax", "Buellia_uberior", "Buellia_uberiuscula", "Calicium_corynellum", "Caloplaca_alcarum", "Caloplaca_megalariicola", "Caloplaca_psoromatis", "Caloplaca_vitellinaria", "Candelariella_lichenicola", "Candelariella_xanthostigmoides", "Catenarina_iomma", "Cecidonia_umbonella", "Chaenothecopsis_nigra", "Chaenothecopsis_pusilla", "Chaenothecopsis_rubescens", "Chaenothecopsis_savonica", "Chaenothecopsis_vainioana", "Chaenothecopsis_vinosa", "Chaenothecopsis_viridialba", "Chaenothecopsis_viridireagens", "Dacampia_hookeri", "Dimelaena_lichenicola", "Diploschistes_muscorum", "Diplotomma_alboatrum", "Diplotomma_lutosum", "Endohyalina_insularis", "Enterographa_fellhaneroides", "Enterographa_meklitiae", "Erichansenia_epithallina", "Flavoplaca_polycarpa", "Glaucomaria_sulphurea", "Halecania_alpivaga", "Halecania_pakistanica", "Heteroplacidium_fusculum", "Heteroplacidium_transmutans", "Heteroplacidium_zamenhofianum", "Kiliasia_sculpturata", "Lecania_caloplacicola", "Lecanora_gisleriana", "Lecanora_latro", "Lecidea_tessellata", "Lichenothelia_convexa", "Lichinodium_sirosiphoideum", "Melaspilea_granitophila", "Melaspilea_leciographoides", "Melaspilea_lentiginosa", "Merismatium_deminutum", "Milospium_graphideorum", "Miriquidica_complanata", "Miriquidica_deusta", "Miriquidica_intrudens", "Miriquidica_nigroleprosa", "Miriquidica_verrucariicola", "Monerolechia_californica", "Obryzum_corniculatum", "Opegrapha_brevis", "Opegrapha_rupestris", "Paragyalideopsis_floridae", "Paralecanographa_grumulosa", "Phylliscum_demangeonii", "Placocarpus_americanus", "Placocarpus_melanophthalmosus", "Placocarpus_schaereri", "Placopyrenium_breussii", "Placopyrenium_cinereoatratum", "Placopyrenium_formosum", "Placopyrenium_noxium", "Polyblastia_quartzina", "Polycauliona_polycarpa", "Protoparmelia_atriseda", "Protoparmelia_phaeonesos", "Protoparmelia_ryaniana", "Pseudocyphellaria_glabra", "Psoroglaena_infossa", "Pyrenothrix_nigra", "Pyrenula_coryli", "Rhizocarpon_bolanderi", "Rhizocarpon_cleptophilum", "Rhizocarpon_intermediellum", "Rhizocarpon_santessonii", "Rinodina_milvinodes", "Rinodina_williamsii", "Rufoplaca_subpallida", "Sarcopyrenia_beckhausiana", "Sarcopyrenia_gibba", "Shackletonia_buelliae", "Shackletonia_hertelii", "Sphinctrina_anglica", "Tephromela_parasitica", "Tetramelas_concinnus", "Thalloidima_candidum", "Thalloidima_ioen", "Thalloidima_sedifolium", "Thalloidima_subdiffractum", "Thelocarpon_epibolum", "Toninia_cinereovirens", "Toninia_squalida", "Toninia_subdispersa", "Toninia_subfuscae", "Toninia_tristis", "Toninia_wetmorei", "Toniniopsis_aromatica", "Tryblidaria_nivalis", "Tylophoron_hibernicum", "Verrucaria_bernardinensis", "Verrucaria_canella", "Verrucaria_cetera", "Verrucaria_falcata", "Verrucaria_fuscella", "Verrucaria_inficiens", "Verrucaria_latericola", "Verrucaria_polysticta", "Xerotrema_megalosporum"],
+    "shared_species_n": 141
   },
   {
     "source": "Plant_Pathogen",
@@ -915,7 +1319,11 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 5,
-    "width": 12.5423
+    "width": 12.5423,
+    "shared_genus": ["Arthonia", "Laestadia", "Phaeocalicium", "Shackletonia", "Thelocarpon"],
+    "shared_genus_n": 5,
+    "shared_species": ["Shackletonia_siphonospora", "Thelocarpon_epibolum"],
+    "shared_species_n": 2
   },
   {
     "source": "Saprotroph",
@@ -924,6 +1332,10 @@
     "community": 6,
     "community_nodes": ["Algae_Parasite", "Fungal_Parasite", "Insect_Pathogen", "Lichen_Parasite", "Lichenized", "Plant_Pathogen", "Saprotroph"],
     "weight": 28,
-    "width": 23.5711
+    "width": 23.5711,
+    "shared_genus": ["Acrocordia", "Agonimia", "Anisomeridium", "Aptrootia", "Arthonia", "Arthopyrenia", "Arthothelium", "Bacidina", "Calicium", "Chaenothecopsis", "Cyrtidula", "Distopyrenis", "Glonium", "Hazslinszkya", "Jarxia", "Julella", "Leptorhaphis", "Mycocalicium", "Mycomicrothelia", "Mycoporopsis", "Mycoporum", "Naetrocymbe", "Phaeocalicium", "Phylloblastia", "Protothelenella", "Pyrenula", "Thelocarpon", "Xerotrema"],
+    "shared_genus_n": 28,
+    "shared_species": ["Acrocordia_gemmata", "Anisomeridium_anisolobum", "Anisomeridium_subprostans", "Aptrootia_terricola", "Arthopyrenia_analepta", "Arthopyrenia_salicis", "Bacidina_dissecta", "Chaenothecopsis_debilis", "Chaenothecopsis_himalayensis", "Chaenothecopsis_nana", "Chaenothecopsis_pusilla", "Chaenothecopsis_viridireagens", "Glonium_circumserpens", "Hazslinszkya_gibberulosa", "Jarxia_ilicicola", "Leptorhaphis_atomaria", "Mycomicrothelia_atlantica", "Mycomicrothelia_confusa", "Mycoporopsis_vernicea", "Mycoporum_eschweileri", "Naetrocymbe_rhyponta", "Phaeocalicium_curtisii", "Phylloblastia_bielczykiae", "Protothelenella_sphinctrinoidella", "Pyrenula_coryli", "Pyrenula_thelomorpha", "Thelocarpon_coccosporum", "Thelocarpon_epibolum", "Xerotrema_quercicola"],
+    "shared_species_n": 29
   }
 ]

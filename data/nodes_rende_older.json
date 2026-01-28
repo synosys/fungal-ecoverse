@@ -1,0 +1,546 @@
+[
+  {
+    "id": "Amphibian_Pathogen",
+    "x": -1,
+    "y": 0.1731,
+    "labelX": -0.97,
+    "labelY": 0.2031,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.5,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "5",
+        "frac": 0.5,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Insect_Pathogen",
+    "x": -0.348,
+    "y": 0.1895,
+    "labelX": -0.318,
+    "labelY": 0.2195,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.2857,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "3",
+        "frac": 0.0714,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.5714,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "6",
+        "frac": 0.0714,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Amphibian_Symbiont",
+    "x": -1,
+    "y": 0.1731,
+    "labelX": -0.97,
+    "labelY": 0.2031,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.5,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "5",
+        "frac": 0.5,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Animal_Pathogen",
+    "x": -0.0113,
+    "y": 0.0647,
+    "labelX": 0.0187,
+    "labelY": 0.0947,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.2857,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "5",
+        "frac": 0.7143,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Epiphyte",
+    "x": 0.0197,
+    "y": 0.129,
+    "labelX": 0.0497,
+    "labelY": 0.159,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.1111,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "3",
+        "frac": 0.1111,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.7778,
+        "color": "#E6AB02"
+      }
+    ]
+  },
+  {
+    "id": "Human_Endosymbiont",
+    "x": -0.9247,
+    "y": -0.0715,
+    "labelX": -0.8947,
+    "labelY": -0.0415,
+    "pie": [
+      {
+        "community": "1",
+        "frac": 0.3333,
+        "color": "#1B9E77"
+      },
+      {
+        "community": "5",
+        "frac": 0.6667,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Fungal_Parasite",
+    "x": 0.1572,
+    "y": -0.0995,
+    "labelX": 0.1872,
+    "labelY": -0.0695,
+    "pie": [
+      {
+        "community": "2",
+        "frac": 0.0909,
+        "color": "#E7298A"
+      },
+      {
+        "community": "3",
+        "frac": 0.0909,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.7273,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "6",
+        "frac": 0.0909,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Nematode_Trapping",
+    "x": 1,
+    "y": -0.4329,
+    "labelX": 1.03,
+    "labelY": -0.4029,
+    "pie": [
+      {
+        "community": "2",
+        "frac": 1,
+        "color": "#E7298A"
+      }
+    ]
+  },
+  {
+    "id": "Mammal_Pathogen",
+    "x": 0.9076,
+    "y": 1,
+    "labelX": 0.9376,
+    "labelY": 1.03,
+    "pie": [
+      {
+        "community": "2",
+        "frac": 1,
+        "color": "#E7298A"
+      }
+    ]
+  },
+  {
+    "id": "Wood_Saprotroph",
+    "x": 0.3921,
+    "y": 0.3436,
+    "labelX": 0.4221,
+    "labelY": 0.3736,
+    "pie": [
+      {
+        "community": "2",
+        "frac": 0.1333,
+        "color": "#E7298A"
+      },
+      {
+        "community": "3",
+        "frac": 0.0667,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.6,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.2,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Plant_Pathogen",
+    "x": 0.2553,
+    "y": -0.5402,
+    "labelX": 0.2853,
+    "labelY": -0.5102,
+    "pie": [
+      {
+        "community": "2",
+        "frac": 0.05,
+        "color": "#E7298A"
+      },
+      {
+        "community": "3",
+        "frac": 0.8,
+        "color": "#7570B3"
+      },
+      {
+        "community": "5",
+        "frac": 0.05,
+        "color": "#D95F02"
+      },
+      {
+        "community": "6",
+        "frac": 0.1,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Biotrophic_plant_pathogen",
+    "x": 0.2167,
+    "y": -0.9152,
+    "labelX": 0.2467,
+    "labelY": -0.8852,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.3333,
+        "color": "#7570B3"
+      },
+      {
+        "community": "5",
+        "frac": 0.6667,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Cnidaria_Pathogen",
+    "x": 0.012,
+    "y": -0.0827,
+    "labelX": 0.042,
+    "labelY": -0.0527,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.2,
+        "color": "#7570B3"
+      },
+      {
+        "community": "5",
+        "frac": 0.8,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Dung_Saprotroph",
+    "x": 0.0426,
+    "y": 0.099,
+    "labelX": 0.0726,
+    "labelY": 0.129,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.1111,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.8889,
+        "color": "#E6AB02"
+      }
+    ]
+  },
+  {
+    "id": "Ectomycorrhizal",
+    "x": 0.0611,
+    "y": -0.1688,
+    "labelX": 0.0911,
+    "labelY": -0.1388,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.125,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.625,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.25,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Endophyte",
+    "x": 0.0888,
+    "y": -0.134,
+    "labelX": 0.1188,
+    "labelY": -0.104,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.0625,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.5625,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.375,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Ericoid_Mycorrhizal",
+    "x": 0.0507,
+    "y": -0.0639,
+    "labelX": 0.0807,
+    "labelY": -0.0339,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.1429,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.1429,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.7143,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Fish_Pathogen",
+    "x": -0.3268,
+    "y": -0.6339,
+    "labelX": -0.2968,
+    "labelY": -0.6039,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.25,
+        "color": "#7570B3"
+      },
+      {
+        "community": "5",
+        "frac": 0.75,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Human_Pathogen",
+    "x": -0.1256,
+    "y": -0.0222,
+    "labelX": -0.0956,
+    "labelY": 0.0078,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.0625,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.5,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.4375,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Lichen_Parasite",
+    "x": 0.0032,
+    "y": -0.0877,
+    "labelX": 0.0332,
+    "labelY": -0.0577,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.0769,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.7692,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "6",
+        "frac": 0.1538,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Nematode_Symbiont",
+    "x": 0.6221,
+    "y": -1,
+    "labelX": 0.6521,
+    "labelY": -0.97,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 1,
+        "color": "#7570B3"
+      }
+    ]
+  },
+  {
+    "id": "Orchid_Mycorrhizal",
+    "x": -0.2973,
+    "y": -0.6667,
+    "labelX": -0.2673,
+    "labelY": -0.6367,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.25,
+        "color": "#7570B3"
+      },
+      {
+        "community": "5",
+        "frac": 0.75,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Saprotroph",
+    "x": -0.5023,
+    "y": -0.0574,
+    "labelX": -0.4723,
+    "labelY": -0.0274,
+    "pie": [
+      {
+        "community": "3",
+        "frac": 0.0476,
+        "color": "#7570B3"
+      },
+      {
+        "community": "4",
+        "frac": 0.4286,
+        "color": "#E6AB02"
+      },
+      {
+        "community": "5",
+        "frac": 0.4286,
+        "color": "#D95F02"
+      },
+      {
+        "community": "6",
+        "frac": 0.0952,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Insect_Symbiont",
+    "x": -0.8841,
+    "y": -0.152,
+    "labelX": -0.8541,
+    "labelY": -0.122,
+    "pie": [
+      {
+        "community": "5",
+        "frac": 1,
+        "color": "#D95F02"
+      }
+    ]
+  },
+  {
+    "id": "Algae_Parasite",
+    "x": -0.3808,
+    "y": -0.7742,
+    "labelX": -0.3508,
+    "labelY": -0.7442,
+    "pie": [
+      {
+        "community": "6",
+        "frac": 1,
+        "color": "#66A61E"
+      }
+    ]
+  },
+  {
+    "id": "Lichenized",
+    "x": -0.3821,
+    "y": -0.6955,
+    "labelX": -0.3521,
+    "labelY": -0.6655,
+    "pie": [
+      {
+        "community": "6",
+        "frac": 1,
+        "color": "#66A61E"
+      }
+    ]
+  }
+]
